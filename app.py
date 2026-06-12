@@ -1,5 +1,9 @@
 from __future__ import annotations
 
+__import__("pysqlite3")
+import sys
+sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+
 import math
 import os
 import shutil
