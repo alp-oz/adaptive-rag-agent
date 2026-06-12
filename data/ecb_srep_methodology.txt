@@ -1,0 +1,160 @@
+ECB Supervisory Review and Evaluation Process (SREP) — Methodology Overview
+============================================================================
+Source: European Central Bank Banking Supervision. Synthetic summary for
+educational and portfolio demonstration purposes.
+
+OVERVIEW
+--------
+The Supervisory Review and Evaluation Process (SREP) is the annual cycle
+through which the ECB assesses the risks faced by significant institutions
+(SIs) under its direct supervision within the Single Supervisory Mechanism
+(SSM). The SREP results in binding capital and liquidity requirements above
+the Pillar 1 minimum, as well as qualitative supervisory measures.
+
+The ECB directly supervises approximately 113 significant institutions,
+including all major eurozone banks. Swedbank's euro area operations fall
+under national competent authority supervision (Finansinspektionen) with ECB
+involvement through the Joint Supervisory Team (JST) framework.
+
+SREP COMPONENTS
+---------------
+The SREP assessment covers four main elements:
+
+1. Business Model Analysis (BMA):
+   Assesses the viability and sustainability of the bank's business model
+   over a 12-month and 3-year forward-looking horizon. Scores from 1 (no
+   risk) to 4 (high risk). A score of 4 triggers immediate supervisory
+   escalation. Typical areas: revenue concentration, profitability drivers,
+   strategic plan credibility, competitive position.
+
+2. Internal Governance and Risk Management:
+   Evaluates the adequacy of the bank's governance arrangements, risk
+   culture, internal controls, and risk management frameworks. Covers:
+   - Board composition and effectiveness
+   - Risk appetite framework
+   - Internal audit and compliance functions
+   - Data quality and risk data aggregation (BCBS 239)
+   - Remuneration policies
+
+3. Risk Assessment (capital risks):
+   Individual assessment of each material risk type:
+   a) Credit and counterparty risk
+   b) Market risk (trading book and banking book)
+   c) Operational risk (including cyber and conduct risk)
+   d) Interest rate risk in the banking book (IRRBB)
+   e) Liquidity and funding risk
+   f) Concentration risk (sectoral, geographic, single-name)
+   g) Profitability and sustainability risk
+
+4. Capital and Liquidity Adequacy Assessment:
+   Determines whether the bank holds sufficient capital and liquidity
+   given the identified risks. Feeds directly into P2R and P2G setting.
+
+SREP CAPITAL ASSESSMENT
+-----------------------
+The SREP capital assessment results in three layers of requirements:
+
+Pillar 2 Requirement (P2R):
+   - Mandatory, legally binding additional capital above Pillar 1
+   - Covers risks underestimated or not covered by Pillar 1
+   - Must be met at all times; breach triggers automatic restrictions
+   - Communicated to the bank but not publicly disclosed individually
+   - ECB average P2R across SSM banks: approximately 2.1% CET1
+   - Composition: at least 56.25% must be CET1 (remainder AT1 and T2)
+
+Pillar 2 Guidance (P2G):
+   - Non-binding supervisory expectation above P2R
+   - Based on adverse stress test scenario capital depletion
+   - Banks are expected (but not legally required) to meet P2G
+   - Breach of P2G triggers supervisory dialogue, not automatic restrictions
+   - ECB average P2G: approximately 1.5% CET1
+
+Combined Buffer Requirement (CBR):
+   - Capital Conservation Buffer + Countercyclical Buffer + G-SIB/D-SIB buffer
+   - Breach triggers restrictions on distributions (dividends, AT1 coupons,
+     variable remuneration)
+   - Maximum Distributable Amount (MDA) applies when CBR is breached
+
+TOTAL SREP CAPITAL REQUIREMENT (TSCR) AND OVERALL CAPITAL REQUIREMENT (OCR):
+   TSCR = Pillar 1 (8%) + P2R
+   OCR  = TSCR + Combined Buffer Requirement
+
+HOW STRESS TEST RESULTS FEED INTO SREP
+---------------------------------------
+The EBA EU-wide stress test results are a key quantitative input to the
+SREP P2G calibration:
+
+1. Capital depletion in the adverse scenario is used to set P2G:
+   P2G ≈ Maximum capital depletion in adverse scenario
+   (with adjustments for model uncertainty and bank-specific factors)
+
+2. Banks that show large capital depletion in the stress test receive
+   higher P2G, effectively requiring them to hold more capital as a buffer
+   against a future adverse scenario.
+
+3. The stress test is therefore not a pass/fail exercise — there is no
+   minimum threshold below which a bank "fails." Instead, results translate
+   directly into forward-looking capital requirements.
+
+4. Qualitative findings from the stress test (data quality, model limitations,
+   governance of stress testing) also feed into the governance component of
+   SREP scoring.
+
+Example: A bank that depletes 4.5 percentage points of CET1 in the adverse
+scenario would typically receive a P2G of approximately 4.0–5.0%, depending
+on the supervisory assessment of model risk and management actions.
+
+SREP LIQUIDITY ASSESSMENT
+--------------------------
+Alongside capital, SREP includes a full liquidity assessment:
+
+Pillar 2 Liquidity Requirement (P2R-L):
+   - Additional liquidity above LCR/NSFR minimums
+   - May require additional High-Quality Liquid Assets (HQLA)
+   - Covers risks not captured by standard ratios: intraday liquidity,
+     currency mismatches, franchise-specific deposit flight assumptions
+
+SREP SCORES AND OVERALL ASSESSMENT
+------------------------------------
+Each SREP component receives a score from 1 to 4:
+   1 = No discernible risk
+   2 = Low risk
+   3 = Medium risk
+   4 = High risk
+
+The overall SREP score is a composite of all component scores. It determines
+the intensity of ongoing supervision:
+   Score 1-2: Standard supervision
+   Score 3:   Enhanced supervision, possible on-site inspections
+   Score 4:   Intensive supervision, potential early intervention measures
+
+ECB publishes aggregate SREP statistics annually showing distribution of
+scores across SSM banks. In 2023, approximately 70% of banks received an
+overall SREP score of 2 or 3.
+
+SREP IN THE CONTEXT OF THE 2023 STRESS TEST
+--------------------------------------------
+Following the 2023 EBA stress test, the ECB used results to:
+
+1. Set P2G for 2024 SREP cycle based on adverse scenario capital depletion
+   (average depletion of 4.6 percentage points across EU banks)
+
+2. Identify banks with disproportionate CRE exposures for targeted
+   deep-dive supervisory reviews
+
+3. Launch thematic review of IRRBB management across SSM banks, given the
+   sharp interest rate shock in the adverse scenario
+
+4. Assess preparedness for the output floor implementation under Basel III
+   final rules, with particular focus on IRB model recalibration needs
+
+SUPERVISORY MEASURES
+--------------------
+Following SREP, the ECB may impose:
+   - Capital add-ons (P2R increases)
+   - Specific own funds requirements for individual risk categories
+   - Liquidity add-ons
+   - Qualitative measures: remediation plans, management body changes,
+     risk appetite revisions, model reviews
+   - In severe cases: early intervention measures under BRRD
+     (Bank Recovery and Resolution Directive)

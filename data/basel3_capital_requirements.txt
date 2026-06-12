@@ -1,0 +1,170 @@
+Basel III Capital Requirements Framework
+========================================
+Source: Basel Committee on Banking Supervision (BCBS), BIS. Synthetic summary
+for educational and portfolio demonstration purposes.
+
+OVERVIEW
+--------
+Basel III is the international regulatory framework for banks developed by the
+Basel Committee on Banking Supervision (BCBS) in response to the 2007–2009
+global financial crisis. It strengthens bank capital requirements by increasing
+bank liquidity and decreasing bank leverage. The framework was phased in from
+2013 and fully implemented by January 2023.
+
+CAPITAL TIERS
+-------------
+Bank capital under Basel III is divided into three tiers:
+
+Tier 1 Capital (going-concern capital):
+  Common Equity Tier 1 (CET1):
+    - Ordinary shares and share premium accounts
+    - Retained earnings and accumulated other comprehensive income
+    - Other disclosed reserves
+    - Common shares issued by consolidated subsidiaries
+    CET1 is the highest quality capital — it absorbs losses while the bank
+    continues operating. Minimum requirement: 4.5% of risk-weighted assets.
+
+  Additional Tier 1 (AT1):
+    - Instruments that are subordinated, have fully discretionary non-
+      cumulative dividends/coupons, and have no maturity date
+    - Contingent convertible bonds (CoCos) that convert to equity or are
+      written down when CET1 falls below a trigger (typically 5.125%)
+    Minimum Tier 1 capital (CET1 + AT1): 6.0% of risk-weighted assets.
+
+Tier 2 Capital (gone-concern capital):
+    - Subordinated debt with minimum 5-year original maturity
+    - General loan loss provisions (up to 1.25% of credit RWA)
+    - Instruments issued by consolidated subsidiaries
+    Minimum Total Capital (Tier 1 + Tier 2): 8.0% of risk-weighted assets.
+
+CAPITAL BUFFERS
+---------------
+On top of minimum requirements, Basel III introduced mandatory and
+discretionary capital buffers, all of which must be met with CET1:
+
+Capital Conservation Buffer (CCB):
+    - 2.5% of RWA, mandatory for all banks
+    - Restricts distributions (dividends, buybacks, bonuses) when breached
+    - Effective minimum CET1 with CCB: 7.0%
+
+Countercyclical Capital Buffer (CCyB):
+    - 0% to 2.5% of RWA, set by national authorities
+    - Activated when credit growth is excessive; released in downturns
+    - Swedish Riksbank set CCyB at 2.0% prior to COVID-19 pandemic, then
+      released it to 0% in March 2020, subsequently rebuilding to 2.0%
+
+G-SIB Buffer (Global Systemically Important Banks):
+    - 1.0% to 3.5% of RWA, depending on systemic importance score
+    - Applied to ~30 global banks (e.g., BNP Paribas, Deutsche Bank, ING)
+    - No Swedish bank currently holds G-SIB designation
+
+D-SIB Buffer (Domestic Systemically Important Banks):
+    - 1.0% to 3.0% of RWA, set by national authorities
+    - In Sweden: Swedbank, SEB, Handelsbanken, and Nordea each carry a
+      D-SIB surcharge of 2.0%, reflecting their systemic importance to the
+      Swedish financial system
+
+Systemic Risk Buffer:
+    - Applied in some EU jurisdictions (Sweden, Norway, Denmark, Finland)
+    - Sweden applies a 3.0% systemic risk buffer to Swedish exposures of
+      the four major banks, reflecting real estate concentration risk
+
+COMBINED CAPITAL REQUIREMENTS (SWEDISH MAJOR BANKS)
+----------------------------------------------------
+For Swedbank, SEB, Handelsbanken, and Nordea operating in Sweden:
+    CET1 minimum (Pillar 1):              4.5%
+    Capital Conservation Buffer:          2.5%
+    Countercyclical Capital Buffer:       2.0%
+    D-SIB Buffer:                         2.0%
+    Systemic Risk Buffer:                 3.0%
+    ----------------------------------------
+    Combined CET1 requirement:           ~14.0%
+    (exact figure varies by bank and SREP outcome)
+
+These requirements are among the highest in the EU, reflecting the Swedish
+financial supervisory authority's (Finansinspektionen) conservative approach.
+
+RISK-WEIGHTED ASSETS (RWA)
+--------------------------
+Capital ratios are expressed as a percentage of risk-weighted assets (RWA),
+not total assets. RWA reflects the riskiness of each asset:
+
+Credit risk RWA:
+    - Standardised approach: fixed risk weights by asset class (e.g.,
+      residential mortgages: 35%, corporate loans: 100%, sovereign: 0–150%)
+    - Internal Ratings-Based (IRB) approach: banks use own models to
+      estimate probability of default (PD), loss given default (LGD), and
+      exposure at default (EAD). Swedish banks use IRB for most portfolios.
+    - IRB typically produces lower RWA than standardised, giving Swedish
+      banks higher reported CET1 ratios vs. banks on standardised approach
+
+Market risk RWA:
+    - Trading book exposures: interest rate risk, equity risk, FX risk
+    - Standardised or Internal Models Approach (IMA)
+    - Under Basel III's Fundamental Review of the Trading Book (FRTB),
+      market risk RWA is expected to increase significantly
+
+Operational risk RWA:
+    - Business Indicator Component (BIC) under Basel III final rules
+    - Replaces the Advanced Measurement Approach (AMA) from Basel II
+
+OUTPUT FLOOR
+------------
+A key feature of Basel III finalisation (sometimes called "Basel IV"):
+    - Banks using internal models cannot produce total RWA below 72.5% of
+      the standardised approach RWA (phased in 2025–2030)
+    - This "output floor" limits the RWA benefit from IRB models
+    - Expected to increase RWA for Swedish banks by 15–25%, as their IRB
+      models produce particularly low RWA on mortgage portfolios
+    - Finansinspektionen has estimated Swedbank's CET1 ratio would fall by
+      approximately 2–3 percentage points when the output floor fully applies
+
+LEVERAGE RATIO
+--------------
+The leverage ratio is a non-risk-based backstop:
+    Tier 1 capital / Total exposure measure ≥ 3.0%
+
+Total exposure includes:
+    - On-balance-sheet assets (net of Tier 1 deductions)
+    - Derivative exposures (replacement cost + potential future exposure)
+    - Securities financing transaction (SFT) exposures
+    - Off-balance-sheet items (credit conversion factors apply)
+
+Swedish major banks typically report leverage ratios of 4.5–5.5%, well above
+the 3% minimum, reflecting their relatively low derivative and trading book
+exposures compared to global investment banks.
+
+LIQUIDITY REQUIREMENTS
+----------------------
+Liquidity Coverage Ratio (LCR):
+    - High-quality liquid assets (HQLA) / Net cash outflows over 30 days ≥ 100%
+    - HQLA includes: central bank reserves, government bonds, covered bonds
+    - Swedish banks maintain LCR above 150%, partly reflecting Finansinspektionen's
+      requirement to hold LCR above 100% in each major currency
+
+Net Stable Funding Ratio (NSFR):
+    - Available stable funding / Required stable funding ≥ 100%
+    - Measures whether long-term assets are funded by stable long-term liabilities
+    - Swedish banks NSFR: typically 115–130%, comfortably above minimum
+
+PILLAR 2 REQUIREMENTS
+---------------------
+Beyond Pillar 1 minimum requirements, supervisors set additional Pillar 2
+requirements (P2R) through the SREP process:
+    - P2R covers risks not fully captured by Pillar 1: concentration risk,
+      interest rate risk in the banking book (IRRBB), pension risk
+    - In Sweden, P2R adds approximately 1.5–3.0% CET1 for major banks
+    - P2R is bank-specific and confidential, but disclosed in aggregate
+
+CAPITAL DEPLETION UNDER STRESS
+-------------------------------
+Under EBA stress tests, capital depletion is driven by:
+    1. Credit losses: impairments on loans (largest driver, 60–70% of total)
+    2. Market risk losses: mark-to-market on trading book and AFS portfolio
+    3. Net interest income compression: spread compression under adverse rates
+    4. Operational risk losses: conduct charges, IT failures, fraud
+    5. RWA inflation: migration of performing loans to higher risk buckets
+
+Banks with high IRB-modelled RWA benefit from lower starting capital
+requirements but are exposed to RWA inflation when models recalibrate under
+stress, amplifying capital ratio declines.

@@ -1,0 +1,160 @@
+ECB / EBA 2023 EU-Wide Stress Test — Summary Results
+======================================================
+Source: European Banking Authority, July 2023 (public domain)
+
+OVERVIEW
+--------
+The 2023 EU-wide stress test covered 70 banks across the European Union,
+representing approximately 75% of total banking sector assets. The exercise
+assessed resilience under an adverse macroeconomic scenario projected over a
+three-year horizon (2023–2025).
+
+ADVERSE SCENARIO
+----------------
+The adverse scenario was designed by the European Systemic Risk Board (ESRB)
+and assumed the following shocks:
+  - EU GDP contraction of 6.0% cumulatively over three years
+  - Unemployment rising by 6.1 percentage points to a peak of 12.2%
+  - Residential real estate prices falling 21% and commercial real estate
+    falling 29% cumulatively
+  - A severe tightening of financial conditions with a 10-year sovereign
+    yield increase of approximately 200 basis points
+
+AGGREGATE CAPITAL RESULTS
+--------------------------
+Starting CET1 ratio (fully loaded, end-2022):    15.0%
+CET1 ratio under adverse scenario (end-2025):    10.4%
+Capital depletion (adverse scenario):             4.6 percentage points
+
+Total capital ratio (starting point):            18.5%
+Total capital ratio (adverse scenario):          13.7%
+
+The aggregate CET1 ratio remains well above the minimum Pillar 1 requirement
+of 4.5% and the 8% minimum total capital requirement under the adverse
+scenario, indicating system-wide resilience.
+
+LEVERAGE RATIO
+--------------
+Starting Tier 1 leverage ratio:                   5.5%
+Tier 1 leverage ratio under adverse scenario:     4.2%
+
+The Tier 1 leverage ratio declines by 1.3 percentage points under the adverse
+scenario, from 5.5% to 4.2% by end-2025. Despite this decline, the leverage
+ratio remains above the 3% minimum Tier 1 leverage ratio requirement across
+the full adverse scenario horizon for all 70 banks in the sample.
+
+The leverage ratio is defined as Tier 1 capital divided by total exposure
+(on- and off-balance-sheet), and is not risk-weighted. Under adverse
+conditions, the leverage ratio deteriorates due to both a reduction in Tier 1
+capital (from credit losses) and an increase in total exposure as off-balance-
+sheet commitments are drawn. Banks with high derivative exposures and large
+off-balance-sheet items show the steepest leverage ratio declines under stress.
+
+The leverage ratio constraint is binding for some banks under adverse
+conditions even when the risk-based CET1 ratio remains comfortable, because
+the leverage ratio does not benefit from reduced risk-weights under the
+internal ratings-based (IRB) approach. This makes the leverage ratio a
+complementary and sometimes more binding constraint than CET1 in stress.
+
+RISK-WEIGHTED ASSETS (RWA)
+--------------------------
+Aggregate RWA increase under adverse scenario:   +8.3%
+Primary driver: credit risk migration and default in corporate and retail
+loan portfolios under recessionary conditions.
+
+Net interest income (NII) shows resilience in the early years due to the
+rate environment, but deteriorates in 2024–2025 as credit losses accumulate.
+
+CREDIT RISK
+-----------
+Cumulative net credit losses (adverse, 2023–2025):  €496 billion
+  - Corporate exposures:    €211 billion
+  - Retail exposures:       €178 billion
+  - Institutions:            €42 billion
+  - Other:                   €65 billion
+
+Non-performing loan (NPL) ratio increases from 2.3% to 5.1% under the
+adverse scenario, driven by downgrades in the corporate and SME segments.
+
+MARKET RISK AND NII
+-------------------
+Net interest income declines cumulatively by €52 billion under the adverse
+scenario, partly offset by improvements in net fee and commission income.
+Net trading income losses amount to €27 billion under market risk shocks,
+concentrated in banks with large trading book exposures.
+
+BANK-LEVEL DISPERSION AND EXPOSURES DRIVING CAPITAL DEPLETION
+--------------------------------------------------------------
+CET1 depletion ranges from 0.3 to 11.2 percentage points across individual
+banks, reflecting heterogeneity in business models, geographic exposures, and
+starting capital buffers.
+
+The bank exposures that drove the largest capital depletion under the adverse
+scenario were:
+
+1. Commercial real estate (CRE) lending: Banks with heavy concentrations in
+   CRE portfolios experienced the steepest capital depletion, driven by the
+   29% cumulative decline in commercial real estate prices. CRE exposures
+   contributed disproportionately to loan losses due to collateral value
+   erosion and borrower default rates rising sharply in the recessionary
+   scenario. Banks with CRE concentration above 20% of total loans showed
+   CET1 depletion of 7–11 percentage points.
+
+2. Leveraged lending and high-yield corporate exposures: Banks active in
+   leveraged buyout (LBO) financing and high-yield corporate lending faced
+   large mark-to-market losses and default-driven credit losses as corporate
+   spreads widened by 300–500 basis points under the adverse scenario.
+
+3. SME (small and medium enterprise) loan portfolios: SME exposures showed
+   elevated default rates under the unemployment shock (peak 12.2%), as
+   smaller firms are more sensitive to recessionary conditions. Banks with
+   high SME concentration in peripheral EU countries showed the largest SME-
+   driven losses.
+
+4. Sovereign and financial institution exposures in stressed countries:
+   Banks holding large sovereign bond portfolios of countries with high
+   starting debt-to-GDP ratios experienced mark-to-market losses from the
+   200-basis-point yield increase assumed in the adverse scenario.
+
+5. Retail mortgage portfolios: Residential real estate price falls of 21%
+   eroded collateral values, increasing loss-given-default (LGD) on mortgage
+   books, particularly for banks with high loan-to-value (LTV) ratios at
+   origination.
+
+No bank falls below the 4.5% CET1 minimum in the adverse scenario on a
+fully-loaded basis, although several institutions show CET1 ratios between
+5% and 7%, indicating limited headroom against further shocks.
+
+CAPITAL ADEQUACY REQUIREMENTS UNDER BASEL III
+----------------------------------------------
+Common Equity Tier 1 (CET1):       minimum 4.5% of RWA
+Tier 1 capital:                     minimum 6.0% of RWA
+Total capital ratio:                minimum 8.0% of RWA
+Capital Conservation Buffer:        2.5% (must be met with CET1)
+Countercyclical Capital Buffer:     0–2.5% (jurisdiction-specific)
+G-SIB surcharge:                    1.0–3.5% for global systemically
+                                    important banks
+
+The fully-loaded CET1 ratio includes all Basel III transitional adjustments
+applied in full. The transitional CET1 ratio, which phases in certain
+deductions, is approximately 0.3–0.5 percentage points higher across the
+sample.
+
+LIQUIDITY
+---------
+The stress test does not directly assess liquidity positions, but supervisors
+note that the Liquidity Coverage Ratio (LCR) averaged 162% at end-2022,
+well above the 100% minimum, and the Net Stable Funding Ratio (NSFR) averaged
+127%, indicating strong short- and medium-term liquidity buffers.
+
+CONCLUSION
+----------
+The 2023 EU-wide stress test demonstrates that the European banking system
+has built up substantial capital buffers since the 2014–2016 stress testing
+cycle, supported by supervisory pressure, retained earnings, and capital
+issuance. However, significant tail risk remains in scenarios of prolonged
+stagflation combined with sharp real estate corrections, particularly for
+banks concentrated in commercial real estate and leveraged lending.
+
+Supervisors will use the results to inform Pillar 2 capital requirements
+in the 2023 Supervisory Review and Evaluation Process (SREP).
