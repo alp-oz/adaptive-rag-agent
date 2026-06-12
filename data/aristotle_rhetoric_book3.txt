@@ -1,0 +1,727 @@
+Rhetoric 137
+Book III
+1
+In making a speech one must study three points: ﬁrst, the
+means of producing persuasion; second, the style, or language,
+to be used; third, the proper arrangement of the various parts of
+the speech. We have already speciﬁed the sources of persuasion.
+We have shown that these are three in number; what they are; and
+why there are only these three: for we have shown that persua-
+sion must in every case be effected either (1) by working on the
+emotions of the judges themselves, (2) by giving them the right
+impression of the speakers’ character, or (3) by proving the truth
+of the statements made.
+Enthymemes also have been described, and the sources from
+which they should be derived; there being both special and gene-
+ral lines of argument for enthymemes.
+Our next subject will be the style of expression. For it is not
+enough to know what we ought to say; we must also say it as we
+ought; much help is thus afforded towards producing the right im-
+pression of a speech. The ﬁrst question to receive attention was
+naturally the one that comes ﬁrst naturally-how persuasion can
+be produced from the facts themselves. The second is how to set
+these facts out in language. A third would be the proper method of
+delivery; this is a thing that affects the success of a speech grea-
+tly; but hitherto the subject has been neglected. Indeed, it was
+long before it found a way into the arts of tragic drama and epic
+recitation: at ﬁrst poets acted their tragedies themselves. It is plain
+that delivery has just as much to do with oratory as with poetry.
+(In connexion with poetry, it has been studied by Glaucon of Teos
+among others.) It is, essentially, a matter of the right management
+of the voice to express the various emotions-of speaking loudly,
+softly, or between the two; of high, low, or intermediate pitch; of
+the various rhythms that suit various subjects. These are the three
+things-volume of sound, modulation of pitch, and rhythm-that a
+speaker bears in mind. It is those who do bear them in mind who
+www.bocc.ubi.pt
+138 Aristotle
+usually win prizes in the dramatic contests; and just as in drama
+the actors now count for more than the poets, so it is in the contests
+of public life, owing to the defects of our political institutions. No
+systematic treatise upon the rules of delivery has yet been compo-
+sed; indeed, even the study of language made no progress till late
+in the day. Besides, delivery is-very properly-not regarded as an
+elevated subject of inquiry. Still, the whole business of rhetoric
+being concerned with appearances, we must pay attention to the
+subject of delivery, unworthy though it is, because we cannot do
+without it. The right thing in speaking really is that we should be
+satisﬁed not to annoy our hearers, without trying to delight them:
+we ought in fairness to ﬁght our case with no help beyond the bare
+facts: nothing, therefore, should matter except the proof of those
+facts. Still, as has been already said, other things affect the result
+considerably, owing to the defects of our hearers. The arts of lan-
+guage cannot help having a small but real importance, whatever it
+is we have to expound to others: the way in which a thing is said
+does affect its intelligibility. Not, however, so much importance
+as people think. All such arts are fanciful and meant to charm the
+hearer. Nobody uses ﬁne language when teaching geometry.
+When the principles of delivery have been worked out, they
+will produce the same effect as on the stage. But only very slight
+attempts to deal with them have been made and by a few people,
+as by Thrasymachus in his ’Appeals to Pity’. Dramatic ability
+is a natural gift, and can hardly be systematically taught. The
+principles of good diction can be so taught, and therefore we have
+men of ability in this direction too, who win prizes in their turn,
+as well as those speakers who excel in delivery-speeches of the
+written or literary kind owe more of their effect to their direction
+than to their thought.
+It was naturally the poets who ﬁrst set the movement going;
+for words represent things, and they had also the human voice at
+their disposal, which of all our organs can best represent other
+things. Thus the arts of recitation and acting were formed, and
+others as well. Now it was because poets seemed to win fame
+www.bocc.ubi.pt
+Rhetoric 139
+through their ﬁne language when their thoughts were simple enough,
+that the language of oratorical prose at ﬁrst took a poetical colour,
+e.g. that of Gorgias. Even now most uneducated people think that
+poetical language makes the ﬁnest discourses. That is not true: the
+language of prose is distinct from that of poetry. This is shown by
+the state of things to-day, when even the language of tragedy has
+altered its character. Just as iambics were adopted, instead of te-
+trameters, because they are the most prose-like of all metres, so
+tragedy has given up all those words, not used in ordinary talk,
+which decorated the early drama and are still used by the writers
+of hexameter poems. It is therefore ridiculous to imitate a poe-
+tical manner which the poets themselves have dropped; and it is
+now plain that we have not to treat in detail the whole question of
+style, but may conﬁne ourselves to that part of it which concerns
+our present subject, rhetoric. The other–the poetical–part of it has
+been discussed in the treatise on the Art of Poetry.
+2
+We may, then, start from the observations there made, inclu-
+ding the deﬁnition of style. Style to be good must be clear, as is
+proved by the fact that speech which fails to convey a plain mea-
+ning will fail to do just what speech has to do. It must also be ap-
+propriate, avoiding both meanness and undue elevation; poetical
+language is certainly free from meanness, but it is not appropriate
+to prose. Clearness is secured by using the words (nouns and
+verbs alike) that are current and ordinary. Freedom from mean-
+ness, and positive adornment too, are secured by using the other
+words mentioned in the Art of Poetry. Such variation from what is
+usual makes the language appear more stately. People do not feel
+towards strangers as they do towards their own countrymen, and
+the same thing is true of their feeling for language. It is therefore
+well to give to everyday speech an unfamiliar air: people like what
+strikes them, and are struck by what is out of the way. In verse
+such effects are common, and there they are ﬁtting: the persons
+www.bocc.ubi.pt
+140 Aristotle
+and things there spoken of are comparatively remote from ordi-
+nary life. In prose passages they are far less often ﬁtting because
+the subject-matter is less exalted. Even in poetry, it is not quite
+appropriate that ﬁne language should be used by a slave or a very
+young man, or about very trivial subjects: even in poetry the style,
+to be appropriate, must sometimes be toned down, though at other
+times heightened. We can now see that a writer must disguise his
+art and give the impression of speaking naturally and not artiﬁ-
+cially. Naturalness is persuasive, artiﬁciality is the contrary; for
+our hearers are prejudiced and think we have some design against
+them, as if we were mixing their wines for them. It is like the dif-
+ference between the quality of Theodorus’ voice and the voices of
+all other actors: his really seems to be that of the character who
+is speaking, theirs do not. We can hide our purpose successfully
+by taking the single words of our composition from the speech of
+ordinary life. This is done in poetry by Euripides, who was the
+ﬁrst to show the way to his successors.
+Language is composed of nouns and verbs. Nouns are of the
+various kinds considered in the treatise on Poetry. Strange words,
+compound words, and invented words must be used sparingly and
+on few occasions: on what occasions we shall state later. The re-
+ason for this restriction has been already indicated: they depart
+from what is suitable, in the direction of excess. In the language
+of prose, besides the regular and proper terms for things, meta-
+phorical terms only can be used with advantage. This we gather
+from the fact that these two classes of terms, the proper or regular
+and the metaphorical-these and no others-are used by everybody
+in conversation. We can now see that a good writer can produce
+a style that is distinguished without being obtrusive, and is at the
+same time clear, thus satisfying our deﬁnition of good oratorical
+prose. Words of ambiguous meaning are chieﬂy useful to ena-
+ble the sophist to mislead his hearers. Synonyms are useful to the
+poet, by which I mean words whose ordinary meaning is the same,
+e.g. ’porheueseai’ (advancing) and ’badizein’ (proceeding); these
+two are ordinary words and have the same meaning.
+www.bocc.ubi.pt
+Rhetoric 141
+In the Art of Poetry, as we have already said, will be found
+deﬁnitions of these kinds of words; a classiﬁcation of Metaphors;
+and mention of the fact that metaphor is of great value both in
+poetry and in prose. Prose-writers must, however, pay specially
+careful attention to metaphor, because their other resources are
+scantier than those of poets. Metaphor, moreover, gives style
+clearness, charm, and distinction as nothing else can: and it is
+not a thing whose use can be taught by one man to another. Me-
+taphors, like epithets, must be ﬁtting, which means that they must
+fairly correspond to the thing signiﬁed: failing this, their inappro-
+priateness will be conspicuous: the want of harmony between two
+things is emphasized by their being placed side by side. It is like
+having to ask ourselves what dress will suit an old man; certainly
+not the crimson cloak that suits a young man. And if you wish to
+pay a compliment, you must take your metaphor from something
+better in the same line; if to disparage, from something worse.
+To illustrate my meaning: since opposites are in the same class,
+you do what I have suggested if you say that a man who begs
+’prays’, and a man who prays ’begs’; for praying and begging
+are both varieties of asking. So Iphicrates called Callias a ’men-
+dicant priest’ instead of a ’torch-bearer’, and Callias replied that
+Iphicrates must be uninitiated or he would have called him not
+a ’mendicant priest’ but a ’torch-bearer’. Both are religious tit-
+les, but one is honourable and the other is not. Again, somebody
+calls actors ’hangers-on of Dionysus’, but they call themselves
+’artists’: each of these terms is a metaphor, the one intended to
+throw dirt at the actor, the other to dignify him. And pirates now
+call themselves ’purveyors’. We can thus call a crime a mistake,
+or a mistake a crime. We can say that a thief ’took’ a thing, or that
+he ’plundered’ his victim. An expression like that of Euripides’
+Telephus,
+King of the oar, on Mysia’s coast he landed,
+is inappropriate; the word ’king’ goes beyond the dignity of
+the subject, and so the art is not concealed. A metaphor may be
+amiss because the very syllables of the words conveying it fail to
+www.bocc.ubi.pt
+142 Aristotle
+indicate sweetness of vocal utterance. Thus Dionysius the Brazen
+in his elegies calls poetry ’Calliope’s screech’. Poetry and scree-
+ching are both, to be sure, vocal utterances. But the metaphor
+is bad, because the sounds of ’screeching’, unlike those of poe-
+try, are discordant and unmeaning. Further, in using metaphors
+to give names to nameless things, we must draw them not from
+remote but from kindred and similar things, so that the kinship
+is clearly perceived as soon as the words are said. Thus in the
+celebrated riddle
+I marked how a man glued bronze with ﬁre to another man’s
+body,
+the process is nameless; but both it and gluing are a kind of
+application, and that is why the application of the cupping-glass
+is here called a ’gluing’. Good riddles do, in general, provide
+us with satisfactory metaphors: for metaphors imply riddles, and
+therefore a good riddle can furnish a good metaphor. Further, the
+materials of metaphors must be beautiful; and the beauty, like the
+ugliness, of all words may, as Licymnius says, lie in their sound or
+in their meaning. Further, there is a third consideration-one that
+upsets the fallacious argument of the sophist Bryson, that there is
+no such thing as foul language, because in whatever words you put
+a given thing your meaning is the same. This is untrue. One term
+may describe a thing more truly than another, may be more like
+it, and set it more intimately before our eyes. Besides, two diffe-
+rent words will represent a thing in two different lights; so on this
+ground also one term must be held fairer or fouler than another.
+For both of two terms will indicate what is fair, or what is foul, but
+not simply their fairness or their foulness, or if so, at any rate not
+in an equal degree. The materials of metaphor must be beautiful
+to the ear, to the understanding, to the eye or some other physical
+sense. It is better, for instance, to say ’rosy-ﬁngered morn’, than
+’crimson-ﬁngered’ or, worse still, ’red-ﬁngered morn’. The epi-
+thets that we apply, too, may have a bad and ugly aspect, as when
+Orestes is called a ’mother-slayer’; or a better one, as when he is
+called his ’father’s avenger’. Simonides, when the victor in the
+www.bocc.ubi.pt
+Rhetoric 143
+mule-race offered him a small fee, refused to write him an ode,
+because, he said, it was so unpleasant to write odes to half-asses:
+but on receiving an adequate fee, he wrote
+Hail to you, daughters of storm-footed steeds?
+though of course they were daughters of asses too. The same
+effect is attained by the use of diminutives, which make a bad
+thing less bad and a good thing less good. Take, for instance, the
+banter of Aristophanes in the Babylonians where he uses ’goldlet’
+for ’gold’, ’cloaklet’ for ’cloak’, ’scofﬁet’ for ’scoff, and ’plague-
+let’. But alike in using epithets and in using diminutives we must
+be wary and must observe the mean.
+3
+Bad taste in language may take any of four forms: (1) The
+misuse of compound words. Lycophron, for instance, talks of the
+’many visaged heaven’ above the ’giant-crested earth’, and again
+the ’strait-pathed shore’; and Gorgias of the ’pauper-poet ﬂatte-
+rer’ and ’oath-breaking and over-oath-keeping’. Alcidamas uses
+such expressions as ’the soul ﬁlling with rage and face becoming
+ﬂame-ﬂushed’, and ’he thought their enthusiasm would be issue-
+fraught’ and ’issue-fraught he made the persuasion of his words’,
+and ’sombre-hued is the ﬂoor of the sea’.The way all these words
+are compounded makes them, we feel, ﬁt for verse only. This,
+then, is one form in which bad taste is shown.
+(2) Another is the employment of strange words. For instance,
+Lycophron talks of ’the prodigious Xerxes’ and ’spoliative Sci-
+ron’; Alcidamas of ’a toy for poetry’ and ’the witlessness of na-
+ture’, and says ’whetted with the unmitigated temper of his spirit’.
+(3) A third form is the use of long, unseasonable, or frequent
+epithets. It is appropriate enough for a poet to talk of ’white milk’,
+in prose such epithets are sometimes lacking in appropriateness
+or, when spread too thickly, plainly reveal the author turning his
+prose into poetry. Of course we must use some epithets, since
+they lift our style above the usual level and give it an air of dis-
+tinction. But we must aim at the due mean, or the result will be
+www.bocc.ubi.pt
+144 Aristotle
+worse than if we took no trouble at all; we shall get something
+actually bad instead of something merely not good. That is why
+the epithets of Alcidamas seem so tasteless; he does not use them
+as the seasoning of the meat, but as the meat itself, so numerous
+and swollen and aggressive are they. For instance, he does not say
+’sweat’, but ’the moist sweat’; not ’to the Isthmian games’, but
+’to the world-concourse of the Isthmian games’; not ’laws’, but
+’the laws that are monarchs of states’; not ’at a run’, but ’his heart
+impelling him to speed of foot’; not ’a school of the Muses’, but
+’Nature’s school of the Muses had he inherited’; and so ’frowning
+care of heart’, and ’achiever’ not of ’popularity’ but of ’univer-
+sal popularity’, and ’dispenser of pleasure to his audience’, and
+’he concealed it’ not ’with boughs’ but ’with boughs of the forest
+trees’, and ’he clothed’ not ’his body’ but ’his body’s nakedness’,
+and ’his soul’s desire was counter imitative’ (this’s at one and the
+same time a compound and an epithet, so that it seems a poet’s ef-
+fort), and ’so extravagant the excess of his wickedness’. We thus
+see how the inappropriateness of such poetical language imports
+absurdity and tastelessness into speeches, as well as the obscurity
+that comes from all this verbosity-for when the sense is plain, you
+only obscure and spoil its clearness by piling up words.
+The ordinary use of compound words is where there is no term
+for a thing and some compound can be easily formed, like ’pa-
+stime’ (chronotribein); but if this is much done, the prose charac-
+ter disappears entirely. We now see why the language of com-
+pounds is just the thing for writers of dithyrambs, who love sono-
+rous noises; strange words for writers of epic poetry, which is a
+proud and stately affair; and metaphor for iambic verse, the metre
+which (as has been already’ said) is widely used to-day.
+(4) There remains the fourth region in which bad taste may be
+shown, metaphor. Metaphors like other things may be inappro-
+priate. Some are so because they are ridiculous; they are indeed
+used by comic as well as tragic poets. Others are too grand and
+theatrical; and these, if they are far-fetched, may also be obscure.
+For instance, Gorgias talks of ’events that are green and full of
+www.bocc.ubi.pt
+Rhetoric 145
+sap’, and says ’foul was the deed you sowed and evil the harvest
+you reaped’. That is too much like poetry. Alcidamas, again, cal-
+led philosophy ’a fortress that threatens the power of law’, and
+the Odyssey ’a goodly looking-glass of human life’,’ talked about
+’offering no such toy to poetry’: all these expressions fail, for the
+reasons given, to carry the hearer with them. The address of Gor-
+gias to the swallow, when she had let her droppings fall on him
+as she ﬂew overhead, is in the best tragic manner. He said, ’Nay,
+shame, O Philomela’. Considering her as a bird, you could not
+call her act shameful; considering her as a girl, you could; and so
+it was a good gibe to address her as what she was once and not as
+what she is.
+4
+The Simile also is a metaphor; the difference is but slight.
+When the poet says of Achilles that he
+Leapt on the foe as a lion,
+this is a simile; when he says of him ’the lion leapt’, it is a
+metaphor-here, since both are courageous, he has transferred to
+Achilles the name of ’lion’. Similes are useful in prose as well as
+in verse; but not often, since they are of the nature of poetry. They
+are to be employed just as metaphors are employed, since they are
+really the same thing except for the difference mentioned.
+The following are examples of similes. Androtion said of
+Idrieus that he was like a terrier let off the chain, that ﬂies at you
+and bites you-Idrieus too was savage now that he was let out of
+his chains. Theodamas compared Archidamus to an Euxenus who
+could not do geometry-a proportional simile, implying that Euxe-
+nus is an Archidamus who can do geometry. In Plato’s Republic
+those who strip the dead are compared to curs which bite the sto-
+nes thrown at them but do not touch the thrower, and there is the
+simile about the Athenian people, who are compared to a ship’s
+captain who is strong but a little deaf; and the one about poets’
+verses, which are likened to persons who lack beauty but pos-
+sess youthful freshness-when the freshness has faded the charm
+www.bocc.ubi.pt
+146 Aristotle
+perishes, and so with verses when broken up into prose. Peric-
+les compared the Samians to children who take their pap but go
+on crying; and the Boeotians to holm-oaks, because they were
+ruining one another by civil wars just as one oak causes another
+oak’s fall. Demosthenes said that the Athenian people were like
+sea-sick men on board ship. Again, Demosthenes compared the
+political orators to nurses who swallow the bit of food themselves
+and then smear the children’s lips with the spittle. Antisthenes
+compared the lean Cephisodotus to frankincense, because it was
+his consumption that gave one pleasure. All these ideas may be
+expressed either as similes or as metaphors; those which succeed
+as metaphors will obviously do well also as similes, and similes,
+with the explanation omitted, will appear as metaphors. But the
+proportional metaphor must always apply reciprocally to either of
+its co-ordinate terms. For instance, if a drinking-bowl is the shield
+of Dionysus, a shield may ﬁttingly be called the drinking-bowl of
+Ares.
+5
+Such, then, are the ingredients of which speech is composed.
+The foundation of good style is correctness of language, which
+falls under ﬁve heads. (1) First, the proper use of connecting
+words, and the arrangement of them in the natural sequence which
+some of them require. For instance, the connective ’men’ (e.g.
+ego men) requires the correlative de (e.g. o de). The answering
+word must be brought in before the ﬁrst has been forgotten, and
+not be widely separated from it; nor, except in the few cases where
+this is appropriate, is another connective to be introduced before
+the one required. Consider the sentence, ’But as soon as he told
+me (for Cleon had come begging and praying), took them along
+and set out.’ In this sentence many connecting words are inserted
+in front of the one required to complete the sense; and if there is
+a long interval before ’set out’, the result is obscurity. One me-
+rit, then, of good style lies in the right use of connecting words.
+(2) The second lies in calling things by their own special names
+www.bocc.ubi.pt
+Rhetoric 147
+and not by vague general ones. (3) The third is to avoid ambi-
+guities; unless, indeed, you deﬁnitely desire to be ambiguous, as
+those do who have nothing to say but are pretending to mean so-
+mething. Such people are apt to put that sort of thing into verse.
+Empedocles, for instance, by his long circumlocutions imposes
+on his hearers; these are affected in the same way as most people
+are when they listen to diviners, whose ambiguous utterances are
+received with nods of acquiescence-
+Croesus by crossing the Halys will ruin a mighty realm.
+Diviners use these vague generalities about the matter in hand
+because their predictions are thus, as a rule, less likely to be fal-
+siﬁed. We are more likely to be right, in the game of ’odd and
+even’, if we simply guess ’even’ or ’odd’ than if we guess at the
+actual number; and the oracle-monger is more likely to be right
+if he simply says that a thing will happen than if he says when it
+will happen, and therefore he refuses to add a deﬁnite date. All
+these ambiguities have the same sort of effect, and are to be avoi-
+ded unless we have some such object as that mentioned. (4) A
+fourth rule is to observe Protagoras’ classiﬁcation of nouns into
+male, female, and inanimate; for these distinctions also must be
+correctly given. ’Upon her arrival she said her say and departed (e
+d elthousa kai dialechtheisa ocheto).’ (5) A ﬁfth rule is to express
+plurality, fewness, and unity by the correct wording, e.g. ’Having
+come, they struck me (oi d elthontes etupton me).’
+It is a general rule that a written composition should be easy to
+read and therefore easy to deliver. This cannot be so where there
+are many connecting words or clauses, or where punctuation is
+hard, as in the writings of Heracleitus. To punctuate Heracleitus
+is no easy task, because we often cannot tell whether a particular
+word belongs to what precedes or what follows it. Thus, at the
+outset of his treatise he says, ’Though this truth is always men
+understand it not’, where it is not clear with which of the two
+clauses the word ’always’ should be joined by the punctuation.
+Further, the following fact leads to solecism, viz. that the sentence
+does not work out properly if you annex to two terms a third which
+www.bocc.ubi.pt
+148 Aristotle
+does not suit them both. Thus either ’sound’ or ’colour’ will fail
+to work out properly with some verbs: ’perceive’ will apply to
+both, ’see’ will not. Obscurity is also caused if, when you intend
+to insert a number of details, you do not ﬁrst make your meaning
+clear; for instance, if you say, ’I meant, after telling him this, that
+and the other thing, to set out’, rather than something of this kind
+’I meant to set out after telling him; then this, that, and the other
+thing occurred.’
+6
+The following suggestions will help to give your language im-
+pressiveness. (1) Describe a thing instead of naming it: do not say
+’circle’, but ’that surface which extends equally from the middle
+every way’. To achieve conciseness, do the opposite-put the name
+instead of the description. When mentioning anything ugly or un-
+seemly, use its name if it is the description that is ugly, and des-
+cribe it if it is the name that is ugly. (2) Represent things with
+the help of metaphors and epithets, being careful to avoid poetical
+effects. (3) Use plural for singular, as in poetry, where one ﬁnds
+Unto havens Achaean,
+though only one haven is meant, and
+Here are my letter’s many-leaved folds.
+(4) Do not bracket two words under one article, but put one ar-
+ticle with each; e.g. ’that wife of ours.’ The reverse to secure con-
+ciseness; e.g. ’our wife.’ Use plenty of connecting words; con-
+versely, to secure conciseness, dispense with connectives, while
+still preserving connexion; e.g. ’having gone and spoken’, and
+’having gone, I spoke’, respectively. (6) And the practice of Anti-
+machus, too, is useful-to describe a thing by mentioning attributes
+it does not possess; as he does in talking of Teumessus
+There is a little wind-swept knoll...
+A subject can be developed indeﬁnitely along these lines. You
+may apply this method of treatment by negation either to good
+or to bad qualities, according to which your subject requires. It
+is from this source that the poets draw expressions such as the
+www.bocc.ubi.pt
+Rhetoric 149
+’stringless’ or ’lyreless’ melody, thus forming epithets out of ne-
+gations. This device is popular in proportional metaphors, as
+when the trumpet’s note is called ’a lyreless melody’.
+7
+Your language will be appropriate if it expresses emotion and
+character, and if it corresponds to its subject. ’Correspondence to
+subject’ means that we must neither speak casually about weighty
+matters, nor solemnly about trivial ones; nor must we add orna-
+mental epithets to commonplace nouns, or the effect will be co-
+mic, as in the works of Cleophon, who can use phrases as absurd
+as ’O queenly ﬁg-tree’. To express emotion, you will employ the
+language of anger in speaking of outrage; the language of disgust
+and discreet reluctance to utter a word when speaking of impiety
+or foulness; the language of exultation for a tale of glory, and that
+of humiliation for a tale of and so in all other cases.
+This aptness of language is one thing that makes people be-
+lieve in the truth of your story: their minds draw the false con-
+clusion that you are to be trusted from the fact that others behave
+as you do when things are as you describe them; and therefore
+they take your story to be true, whether it is so or not. Besides,
+an emotional speaker always makes his audience feel with him,
+even when there is nothing in his arguments; which is why many
+speakers try to overwhelm their audience by mere noise.
+Furthermore, this way of proving your story by displaying
+these signs of its genuineness expresses your personal character.
+Each class of men, each type of disposition, will have its own ap-
+propriate way of letting the truth appear. Under ’class’ I include
+differences of age, as boy, man, or old man; of sex, as man or wo-
+man; of nationality, as Spartan or Thessalian. By ’dispositions’ I
+here mean those dispositions only which determine the character
+of a man’s for it is not every disposition that does this. If, then,
+a speaker uses the very words which are in keeping with a parti-
+cular disposition, he will reproduce the corresponding character;
+for a rustic and an educated man will not say the same things nor
+www.bocc.ubi.pt
+150 Aristotle
+speak in the same way. Again, some impression is made upon an
+audience by a device which speech-writers employ to nauseous
+excess, when they say ’Who does not know this?’ or ’It is known
+to everybody.’ The hearer is ashamed of his ignorance, and agrees
+with the speaker, so as to have a share of the knowledge that eve-
+rybody else possesses.
+All the variations of oratorical style are capable of being used
+in season or out of season. The best way to counteract any exagge-
+ration is the well-worn device by which the speaker puts in some
+criticism of himself; for then people feel it must be all right for
+him to talk thus, since he certainly knows what he is doing. Fur-
+ther, it is better not to have everything always just corresponding
+to everything else-your hearers will see through you less easily
+thus. I mean for instance, if your words are harsh, you should
+not extend this harshness to your voice and your countenance and
+have everything else in keeping. If you do, the artiﬁcial character
+of each detail becomes apparent; whereas if you adopt one device
+and not another, you are using art all the same and yet nobody
+notices it. (To be sure, if mild sentiments are expressed in harsh
+tones and harsh sentiments in mild tones, you become compara-
+tively unconvincing.) Compound words, fairly plentiful epithets,
+and strange words best suit an emotional speech. We forgive an
+angry man for talking about a wrong as ’heaven-high’ or ’colos-
+sal’; and we excuse such language when the speaker has his he-
+arers already in his hands and has stirred them deeply either by
+praise or blame or anger or affection, as Isocrates, for instance,
+does at the end of his Panegyric, with his ’name and fame’ and ’in
+that they brooked’. Men do speak in this strain when they are de-
+eply stirred, and so, once the audience is in a like state of feeling,
+approval of course follows. This is why such language is ﬁtting in
+poetry, which is an inspired thing. This language, then, should be
+used either under stress of emotion, or ironically, after the manner
+of Gorgias and of the passages in the Phaedrus.
+www.bocc.ubi.pt
+Rhetoric 151
+8
+The form of a prose composition should be neither metrical
+nor destitute of rhythm. The metrical form destroys the hearer’s
+trust by its artiﬁcial appearance, and at the same time it diverts
+his attention, making him watch for metrical recurrences, just as
+children catch up the herald’s question, ’Whom does the freedman
+choose as his advocate?’, with the answer ’Cleon!’ On the other
+hand, unrhythmical language is too unlimited; we do not want
+the limitations of metre, but some limitation we must have, or
+the effect will be vague and unsatisfactory. Now it is number that
+limits all things; and it is the numerical limitation of the forms of a
+composition that constitutes rhythm, of which metres are deﬁnite
+sections. Prose, then, is to be rhythmical, but not metrical, or
+it will become not prose but verse. It should not even have too
+precise a prose rhythm, and therefore should only be rhythmical
+to a certain extent.
+Of the various rhythms, the heroic has dignity, but lacks the
+tones of the spoken language. The iambic is the very language of
+ordinary people, so that in common talk iambic lines occur oftener
+than any others: but in a speech we need dignity and the power of
+taking the hearer out of his ordinary self. The trochee is too much
+akin to wild dancing: we can see this in tetrameter verse, which
+is one of the trochaic rhythms.
+There remains the paean, which speakers began to use in the
+time of Thrasymachus, though they had then no name to give it.
+The paean is a third class of rhythm, closely akin to both the two
+already mentioned; it has in it the ratio of three to two, whereas
+the other two kinds have the ratio of one to one, and two to one
+respectively. Between the two last ratios comes the ratio of one-
+and-a-half to one, which is that of the paean.
+Now the other two kinds of rhythm must be rejected in writing
+prose, partly for the reasons given, and partly because they are too
+metrical; and the paean must be adopted, since from this alone of
+the rhythms mentioned no deﬁnite metre arises, and therefore it
+is the least obtrusive of them. At present the same form of paean
+www.bocc.ubi.pt
+152 Aristotle
+is employed at the beginning a at the end of sentences, whereas
+the end should differ from the beginning. There are two opposite
+kinds of paean, one of which is suitable to the beginning of a
+sentence, where it is indeed actually used; this is the kind that
+begins with a long syllable and ends with three short ones, as
+Dalogenes | eite Luki | an,
+and
+Chruseokom | a Ekate | pai Dios.
+The other paean begins, conversely, with three short syllables
+and ends with a long one, as
+meta de lan | udata t ok | eanon e | oanise nux.
+This kind of paean makes a real close: a short syllable can
+give no effect of ﬁnality, and therefore makes the rhythm appear
+truncated. A sentence should break off with the long syllable: the
+fact that it is over should be indicated not by the scribe, or by his
+period-mark in the margin, but by the rhythm itself.
+We have now seen that our language must be rhythmical and
+not destitute of rhythm, and what rhythms, in what particular
+shape, make it so.
+9
+The language of prose must be either free-running, with its
+parts united by nothing except the connecting words, like the pre-
+ludes in dithyrambs; or compact and antithetical, like the stro-
+phes of the old poets. The free-running style is the ancient one,
+e.g. ’Herein is set forth the inquiry of Herodotus the Thurian.’
+Every one used this method formerly; not many do so now. By
+’free-running’ style I mean the kind that has no natural stopping-
+places, and comes to a stop only because there is no more to say
+of that subject. This style is unsatisfying just because it goes on
+indeﬁnitely-one always likes to sight a stopping-place in front of
+one: it is only at the goal that men in a race faint and collapse;
+while they see the end of the course before them, they can keep
+on going. Such, then, is the free-running kind of style; the com-
+pact is that which is in periods. By a period I mean a portion of
+www.bocc.ubi.pt
+Rhetoric 153
+speech that has in itself a beginning and an end, being at the same
+time not too big to be taken in at a glance. Language of this kind
+is satisfying and easy to follow. It is satisfying, because it is just
+the reverse of indeﬁnite; and moreover, the hearer always feels
+that he is grasping something and has reached some deﬁnite con-
+clusion; whereas it is unsatisfactory to see nothing in front of you
+and get nowhere. It is easy to follow, because it can easily be re-
+membered; and this because language when in periodic form can
+be numbered, and number is the easiest of all things to remember.
+That is why verse, which is measured, is always more easily re-
+membered than prose, which is not: the measures of verse can be
+numbered. The period must, further, not be completed until the
+sense is complete: it must not be capable of breaking off abruptly,
+as may happen with the following iambic lines of Sophocles-
+Calydon’s soil is this; of Pelops’ land
+(The smiling plains face us across the strait.)
+By a wrong division of the words the hearer may take the me-
+aning to be the reverse of what it is: for instance, in the passage
+quoted, one might imagine that Calydon is in the Peloponnesus.
+A Period may be either divided into several members or sim-
+ple. The period of several members is a portion of speech (1)
+complete in itself, (2) divided into parts, and (3) easily delivered
+at a single breath-as a whole, that is; not by fresh breath being
+taken at the division. A member is one of the two parts of such
+a period. By a ’simple’ period, I mean that which has only one
+member. The members, and the whole periods, should be neit-
+her curt nor long. A member which is too short often makes the
+listener stumble; he is still expecting the rhythm to go on to the
+limit his mind has ﬁxed for it; and if meanwhile he is pulled back
+by the speaker’s stopping, the shock is bound to make him, so to
+speak, stumble. If, on the other hand, you go on too long, you
+make him feel left behind, just as people who when walking pass
+beyond the boundary before turning back leave their companions
+behind So too if a period is too long you turn it into a speech,
+or something like a dithyrambic prelude. The result is much like
+www.bocc.ubi.pt
+154 Aristotle
+the preludes that Democritus of Chios jeered at Melanippides for
+writing instead of antistrophic stanzas-
+He that sets traps for another man’s feet
+Is like to fall into them ﬁrst;
+And long-winded preludes do harm to us all,
+But the preluder catches it worst.
+Which applies likewise to long-membered orators. Periods
+whose members are altogether too short are not periods at all; and
+the result is to bring the hearer down with a crash.
+The periodic style which is divided into members is of two
+kinds. It is either simply divided, as in ’I have often wondered at
+the conveners of national gatherings and the founders of athletic
+contests’; or it is antithetical, where, in each of the two members,
+one of one pair of opposites is put along with one of another pair,
+or the same word is used to bracket two opposites, as ’They aided
+both parties-not only those who stayed behind but those who ac-
+companied them: for the latter they acquired new territory larger
+than that at home, and to the former they left territory at home that
+was large enough’. Here the contrasted words are ’staying behind’
+and ’accompanying’, ’enough’ and ’larger’. So in the example,
+’Both to those who want to get property and to those who desire
+to enjoy it’ where ’enjoyment’ is contrasted with ’getting’. Again,
+’it often happens in such enterprises that the wise men fail and the
+fools succeed’; ’they were awarded the prize of valour immedia-
+tely, and won the command of the sea not long afterwards’; ’to sail
+through the mainland and march through the sea, by bridging the
+Hellespont and cutting through Athos’; ’nature gave them their
+country and law took it away again’; ’of them perished in misery,
+others were saved in disgrace’; ’Athenian citizens keep foreigners
+in their houses as servants, while the city of Athens allows her al-
+lies by thousands to live as the foreigner’s slaves’; and ’to possess
+in life or to bequeath at death’. There is also what some one said
+about Peitholaus and Lycophron in a law-court, ’These men used
+to sell you when they were at home, and now they have come to
+you here and bought you’. All these passages have the structure
+www.bocc.ubi.pt
+Rhetoric 155
+described above. Such a form of speech is satisfying, because
+the signiﬁcance of contrasted ideas is easily felt, especially when
+they are thus put side by side, and also because it has the effect of
+a logical argument; it is by putting two opposing conclusions side
+by side that you prove one of them false.
+Such, then, is the nature of antithesis. Parisosis is making the
+two members of a period equal in length. Paromoeosis is making
+the extreme words of both members like each other. This must
+happen either at the beginning or at the end of each member. If
+at the beginning, the resemblance must always be between whole
+words; at the end, between ﬁnal syllables or inﬂexions of the same
+word or the same word repeated. Thus, at the beginning
+agron gar elaben arlon par’ autou
+and
+dorhetoi t epelonto pararretoi t epeessin
+At the end
+ouk wethesan auton paidion tetokenai,
+all autou aitlon lelonenai,
+and
+en pleiotals de opontisi kai en elachistais elpisin
+An example of inﬂexions of the same word is
+axios de staoenai chalkous ouk axios on chalkou;
+Of the same word repeated,
+su d’ auton kai zonta eleges kakos kai nun grafeis kakos.
+Of one syllable,
+ti d’ an epaoes deinon, ei andrh’ eides arhgon;
+It is possible for the same sentence to have all these featu-
+res together-antithesis, parison, and homoeoteleuton. (The pos-
+sible beginnings of periods have been pretty fully enumerated in
+the Theodectea.) There are also spurious antitheses, like that of
+Epicharmus-
+There one time I as their guest did stay,
+And they were my hosts on another day.
+www.bocc.ubi.pt
+156 Aristotle
+10
+We may now consider the above points settled, and pass on to
+say something about the way to devise lively and taking sayings.
+Their actual invention can only come through natural talent or
+long practice; but this treatise may indicate the way it is done. We
+may deal with them by enumerating the different kinds of them.
+We will begin by remarking that we all naturally ﬁnd it agreeable
+to get hold of new ideas easily: words express ideas, and therefore
+those words are the most agreeable that enable us to get hold of
+new ideas. Now strange words simply puzzle us; ordinary words
+convey only what we know already; it is from metaphor that we
+can best get hold of something fresh. When the poet calls ’old
+age a withered stalk’, he conveys a new idea, a new fact, to us
+by means of the general notion of bloom, which is common to
+both things. The similes of the poets do the same, and therefore,
+if they are good similes, give an effect of brilliance. The simile,
+as has been said before, is a metaphor, differing from it only in
+the way it is put; and just because it is longer it is less attractive.
+Besides, it does not say outright that ’this’ is ’that’, and therefore
+the hearer is less interested in the idea. We see, then, that both
+speech and reasoning are lively in proportion as they make us
+seize a new idea promptly. For this reason people are not much
+taken either by obvious arguments (using the word ’obvious’ to
+mean what is plain to everybody and needs no investigation), nor
+by those which puzzle us when we hear them stated, but only by
+those which convey their information to us as soon as we hear
+them, provided we had not the information already; or which the
+mind only just fails to keep up with. These two kinds do convey
+to us a sort of information: but the obvious and the obscure kinds
+convey nothing, either at once or later on. It is these qualities,
+then, that, so far as the meaning of what is said is concerned,
+make an argument acceptable. So far as the style is concerned, it
+is the antithetical form that appeals to us, e.g. ’judging that the
+peace common to all the rest was a war upon their own private
+interests’, where there is an antithesis between war and peace. It
+www.bocc.ubi.pt

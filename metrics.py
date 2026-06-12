@@ -24,6 +24,7 @@ class QueryRecord:
     n_docs: int
     rewrite_count: int
     latency_ms: float
+    entropy: float = 0.0
     timestamp: float = field(default_factory=time.time)
 
 
@@ -119,6 +120,7 @@ class MetricsLogger:
         bound_used: str,
         n_docs: int,
         rewrite_count: int,
+        entropy: float = 0.0,
         latency_ms: float | None = None,
     ) -> QueryRecord:
         if latency_ms is None:
@@ -132,6 +134,7 @@ class MetricsLogger:
             bound_used=bound_used,
             n_docs=n_docs,
             rewrite_count=rewrite_count,
+            entropy=entropy,
             latency_ms=latency_ms,
         )
 

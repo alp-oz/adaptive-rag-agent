@@ -16,7 +16,8 @@ from metrics import MetricsLogger
 from retriever import Retriever
 
 _ANSWER_MODEL = "claude-sonnet-4-6"
-_TOP_K = 5
+_TOP_K = 20
+_CONFIDENCE_LEVEL = 0.95
 
 # Module-level singletons — created once, reused across invocations.
 _retriever: Retriever | None = None
@@ -52,7 +53,6 @@ def retrieve(state: RAGState) -> RAGState:
     return {
         **state,
         "documents": result.documents,
-        # stash similarity scores in a side-channel key for the evaluate node
         "_similarity_scores": result.similarity_scores,
     }
 
@@ -64,11 +64,12 @@ def retrieve(state: RAGState) -> RAGState:
 def evaluate(state: RAGState) -> RAGState:
     """Score retrieval confidence via concentration inequalities."""
     scores: list[float] = state.get("_similarity_scores", [])
-    result: ConfidenceResult = compute_confidence(scores, confidence_level=0.80, bound="adaptive")
+    result: ConfidenceResult = compute_confidence(scores, confidence_level=_CONFIDENCE_LEVEL, bound="adaptive")
     return {
         **state,
         "confidence_score": result.score,
         "_confidence_result": result,
+        "_confidence_history": state.get("_confidence_history", []) + [result.score],
     }
 
 
@@ -98,6 +99,7 @@ def rewrite(state: RAGState) -> RAGState:
         "rewrite_count": state["rewrite_count"] + 1,
         "documents": [],
         "confidence_score": 0.0,
+        "_rewrite_history": state.get("_rewrite_history", []) + [new_query],
     }
 
 
@@ -133,6 +135,7 @@ def answer(state: RAGState) -> RAGState:
         bound_used=cr.bound_used if cr else "none",
         n_docs=len(state["documents"]),
         rewrite_count=state["rewrite_count"],
+        entropy=cr.entropy if cr else 0.0,
     )
     return {
         **state,
@@ -156,6 +159,7 @@ def flag(state: RAGState) -> RAGState:
         bound_used=cr.bound_used if cr else "none",
         n_docs=len(state["documents"]),
         rewrite_count=state["rewrite_count"],
+        entropy=cr.entropy if cr else 0.0,
     )
     return {
         **state,

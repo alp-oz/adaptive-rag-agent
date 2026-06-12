@@ -16,7 +16,7 @@ import numpy as np
 from pypdf import PdfReader
 from sentence_transformers import SentenceTransformer
 
-_EMBED_MODEL = "all-MiniLM-L6-v2"
+_EMBED_MODEL = "BAAI/bge-base-en-v1.5"
 _CHUNK_SIZE = 500
 _CHUNK_OVERLAP = 100
 

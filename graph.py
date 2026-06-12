@@ -17,13 +17,16 @@ class RAGState(TypedDict):
     # internal keys used between nodes (not exposed to callers)
     _similarity_scores: list[float]
     _confidence_result: Any
+    # tracing — accumulated across nodes for UI display
+    _rewrite_history: list[str]        # original + each rewritten query
+    _confidence_history: list[float]   # lower bound after each evaluate call
 
 
 # ---------------------------------------------------------------------------
 # Routing
 # ---------------------------------------------------------------------------
 
-CONFIDENCE_THRESHOLD = 0.5
+CONFIDENCE_THRESHOLD = 0.45
 
 
 def route_after_evaluate(

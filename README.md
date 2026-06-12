@@ -114,6 +114,21 @@ Instead of a raw similarity score, the agent applies a **concentration inequalit
 
 This means the agent will refuse to answer (and rewrite the query instead) when retrieval is genuinely uncertain, not just when raw similarity looks low. The approach is ported from the [cautious-rag](https://github.com/alp-oz/cautious-rag) repository.
 
+### Embedding model choice
+
+The embedding model matters significantly for threshold calibration. `all-MiniLM-L6-v2` compresses financial text similarities into a narrow band (0.45–0.70), making the lower bound uninformative as a routing signal. This project uses `BAAI/bge-base-en-v1.5`, which produces well-separated scores on technical/financial text:
+
+| Query type | Mean similarity | Lower bound (Bernstein, 80%) |
+|---|---|---|
+| In-domain (financial) | 0.73–0.80 | 0.52–0.61 |
+| Out-of-domain | 0.42–0.47 | 0.26–0.31 |
+
+The routing threshold of **0.45** sits in the centre of a ~0.2 gap between in- and out-of-domain queries.
+
+### Threshold calibration
+
+The threshold of 0.45 was set empirically by measuring lower bounds on a small set of in-domain and out-of-domain queries against this corpus. In production you would calibrate against labelled relevance judgements — a set of (query, document, relevant: yes/no) triples — choosing the threshold that maximises F1 on the routing decision. The concentration inequality guarantee holds regardless of threshold choice; the threshold determines the operating point on the precision/recall curve for deciding when to answer vs. rewrite.
+
 ## Configuration
 
 | Parameter | Location | Default | Effect |

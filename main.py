@@ -28,6 +28,8 @@ def run_query(query: str, show_docs: bool = False) -> None:
         "status": "pending",
         "_similarity_scores": [],
         "_confidence_result": None,
+        "_rewrite_history": [query],
+        "_confidence_history": [],
     }
     result = graph.invoke(initial)
     print(f"\nStatus:    {result['status']}")

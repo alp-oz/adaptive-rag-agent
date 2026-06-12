@@ -6,3 +6,4 @@ sentence-transformers==5.5.1
 pypdf==6.13.2
 numpy==2.2.6
 anthropic==0.109.1
+streamlit==1.58.0

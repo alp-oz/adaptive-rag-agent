@@ -1,0 +1,1766 @@
+Poincare, Henri. Science and Method (1908). Translated by Francis Maitland.
+
+I. 
+THE SELECTION OF FACTS. 
+ToLSTOI explains somewhere in his writings why, in 
+his opinion, " Science for Science's sake " is an absurd 
+conception. We cannot know all the facts, since they 
+are practically infinite in number. We must make a 
+selection ; and that being so, can this selection be 
+governed by the mere caprice of our curiosity? Is 
+it not better to be guided by utility, by our practical, 
+and more ~specially our moral, necessities? Have we 
+not some better occupation than counting the number 
+of lady-birds in existence on this planet? 
+It is clear that for him the word utility has not the 
+meaning assigned to it by business men, and, after 
+them, by the greater number of our contemporaries. 
+He cares but little for the industrial applications of 
+science, for the marvels of electricity or of auto­
+mobilism, which he regards rather as hindrances to 
+moral progress. For him the useful is exclusively 
+what is capable of making men better. 
+It is hardly necessary for me to state that, for my 
+part, I could not be satisfied with either of these 
+ideals. I have no liking either for a greedy and 
+narrow plutocracy, or for a virtuous unaspmng 
+democracy, solely occupied in turning the other
+
+r6 SCIENCE AND METHOD. 
+cheek, in which we should find good people devoid of 
+curiosity, who, avoiding all excesses, would not die 
+of any disease-save boredom. But it is all a matter 
+of taste, and that is not the point I wish to discuss. 
+None the less the question remains, and it claims 
+our attention. lf our selection is only determined by 
+caprice or by immediate necessity, there qm be no 
+science for science's sake, and consequently no science. 
+Is this true? There is no disputing the fact that a 
+selection must be made : however great our activity, 
+facts outstrip us, and we can never overtake them; 
+while the scientist is discovering one fact, millions 
+and millions are produced in every cubic inch of his 
+body. Trying to make science contain nature is like 
+trying to make the part contain the whole. 
+But scientists believe that there is a hierarchy 
+of facts, and that a judicious selection can be made. 
+They are right, for otherwise there would be no science, 
+and science does exist. One has only to open one's 
+eyes to see that the triumphs of industry, which have 
+enriched so many practical men, would never have 
+seen the light if only these practical men had existed, 
+and if they had not been preceded by disinterested 
+fools who died poor, who never thought of the useful, 
+and yet had a guide that' was not their own caprice. 
+What these fools did, as Mach has said, was to save 
+their successors the trouble of thinking. If they had 
+worked solely in view of an immediate application, 
+they would have left nothing behind them, and in face 
+of a new requirement, all would have had to be done 
+again. Now the majority of men do not like thinking, 
+and this is perhaps a good thing, since instinct guides 
+them, and very often better than reason would guide
+
+THE SELECTION OF FACTS. 17 
+a pure intelligence, at least whenever they are pursuing 
+an end that is immediate and always the same. But 
+instinct is. routine, and if it were not fertilized by 
+thought, it would advance no further with man than 
+with the bee or the ant It is necessary, therefore, to 
+think for those who do not like thinking, and as they 
+are many, each one of our thoughts must be useful 
+in as many circumstances as possible. For this 
+reason, the more general a law is, the greater is its 
+value. 
+This shows us how our selection should be made. 
+The most interesting facts are those which can be 
+used several times, those which have a chance of 
+recurring. We have been fortunate enough to be born 
+in a world where there are such facts. Suppose that 
+instead of eighty chemical elements we had eighty 
+millions, and that they were not some common and 
+others rare, but uniformly distributed. Then each 
+time we picked up a new pebble there would be a 
+strong probability that it was composed of some un­
+known· substance. Nothing that we knew of other 
+pebbles would tell us anything about it. Before each 
+new object we should be like a new-born child ; like 
+him we could but obey our caprices or our necessities. 
+In such a world there would be no science, perhaps 
+thought and even life would be impossible, since 
+evolution could not have developed the instincts of 
+self-preservation. Providentially it is not so; but this 
+blessing, like all those to which we are accustomed, is 
+not appreciated at its true value. The biologist would 
+be equally embarrassed if there were only individuals 
+and no species, and if heredity did not make children 
+resemble their parents.
+
+I8 SCIENCE AND METHOD. 
+Which, then, are the facts that have a chance of 
+recurring? In the first place, simple facts. It is 
+evident that in a complex fact many circumstances 
+are united by chance, and that only a still more 
+improbable chance could ever so unite them again. 
+But are there such things as simple facts? and if there 
+are, how are we to recognize them ? Who can tell 
+that what we believe to be simple does not conceal 
+an alarming complexity? All that we can say is 
+that we must prefer facts which appear simple, to 
+those in which our rude vision detects dissimilar 
+elements. Then only two alternatives are possible; 
+either this simplicity is real, or else the elements 
+are so intimately mingled that they do not admit of 
+being distinguished. In the first case we have a 
+chance of meeting the same simple fact again, either 
+in all its purity, or itself entering as an element into 
+some complex whole. In the second case the intimate 
+mixture has similarly a greater chance of being re­
+produced than a heterogeneous assemblage. Chance 
+can mingle, but it cannot unmingle, and a combination 
+of various elements in a well-ordered edifice in which 
+something can be distinguished, can only be made 
+deliberately. There is, therefore, but little chance that 
+an assemblage in which different things can be dis­
+tinguished should ever be reproduced. On the other 
+hand, there is great probability that a mixture which 
+appears homogeneous at first sight will be reproduced 
+several times. Accordingly facts which appear simple, 
+even if they are not so in reality, will be more easily 
+brought about again by chance. 
+It is this that justifies the method instinctively 
+adopted by scientists, and what perhaps justifies it
+
+THE SELECTION OF FACTS. rg 
+still better is that facts which occur frequently appear 
+to us simple just because we are accustomed to 
+them. 
+But where is the simple fact? Scientists have tried 
+to find it in the two extremes, in the infinitely great 
+and in the infinitely small. The astronomer has found 
+it because the distances of the stars are immense, so 
+great that each of them appears only as a point and 
+qualitative differences disappear, and because a point 
+is simpler than a body which has shape and qualities. 
+The physicist, on the other hand, has sought the 
+elementary phenomenon in an imaginary division of 
+bodies into infinitely small atoms, because the con­
+ditions of the problem, which undergo slow and con­
+tinuous variations as we pass from one point of the 
+body to another, may be regarded as constant within 
+each of these little atoms. Similarly the biologist has 
+been led instinctively to regard the cell as more interest­
+ing than the whole animal, and the event has proved 
+him right, since cells belonging to the most diverse 
+organisms have greater resemblances, for those who can 
+recognize them, than the organisms themselves. The 
+sociologist is in a more embarrassing position. The 
+elements, which for him are men, are too dissimilar, too 
+variable, too capricious, in a word, too complex them­
+selves. Furthermore, history does not repeat itself; 
+how, then, is he to select the interesting fact, the fact 
+which is repeated? Method is precisely the selection 
+of facts, and accordingly our first care must be to 
+devise a method. Many have been devised because 
+none holds the field undisputed. Nearly every socio­
+logical thesis proposes a new method, which, however, 
+its author is very careful not to apply, so that sociology
+
+20 SCIENCE AND METHOD. 
+is the science with the greatest number of methods 
+and the least results. 
+It is with regular facts, therefore, that we ought to 
+begin ; but as soon as the rule is well established, as 
+soon as it is no longer in doubt, the facts which are in 
+complete conformity with it lose their interest, since 
+they can teach us nothing new. Then it is the excep­
+tion which becomes important. We cease to look for 
+resemblances, and apply ourselves before all else to 
+differences, and of these differences we select first 
+those that are most accentuated, not only because 
+they are the most striking, but because they will be 
+the most instructive. This will be best explained by a 
+simple example. Suppose we are seeking to determine 
+a curve by observing some of the points on it. The 
+practical man who looked only to immediate utility 
+would merely observe the points he required for some 
+special object ; these points would be badly distributed 
+on the curve, they would be crowded together in cer­
+tain parts and scarce in others, so that it would be 
+impossible to connect them by a continuous line, and 
+they would be useless for any other application. The 
+scientist would proceed in a different manner. Since 
+he wishes to study the curve for itself, he will distribute 
+the points to be observed regularly, and as soon as he 
+knows some of them, he will join them by a regular 
+line, and he will then have the complete curve. But 
+how is he to accomplish this? If he has determined 
+one extreme point on the curve, he will not remain 
+close to this extremity, but will move to the other end. 
+After the two extremities, the central point is the most 
+instructive, and so on. 
+Thus when a rule has been established, we have first
+
+THE SELECTION OF FACTS. 21 
+to look for the cases in which the rule stands the best 
+chance of being found in fault. This is one of many 
+reasons for the interest of astronomical facts and of 
+geological ages. By making long excursions in 
+space or in time, we may find our ordinary rules 
+completely upset, and these great upsettings will give 
+us . a clearer view and better comprehension of such 
+small changes as may occur nearer us, in the small 
+corner of the world in which we are called to live and 
+move. We shall know this corner better for the 
+journey we have taken into distant lands where we 
+had no concern. 
+But what we must aim at is not so much to ascertain 
+resemblances and differences, as to discover similarities 
+hidden under apparent discrepancies. The individual 
+rules appear at first discordant, but on looking closer 
+we can generally detect a resemblance; though differ­
+ing in matter, they approximate in form and in the 
+order of their parts. When we examine them from 
+tlys point of view, we shall see them widen and tend 
+to embrace everything. This is what gives a value to 
+certain facts that come to complete a whole, and 
+show that it is the faithful image of other known 
+wholes. 
+I cannot dwell further on this point, but these few 
+words will suffice to show that the scientist does not 
+make a random selection of the facts to be observed. 
+He does not count lady-birds, as Tolstoi says, because 
+the number of these insects, interesting as they are, is 
+subject to capricious variations. He tries to condense 
+a great deal of experience and a great deal of thought 
+into a small volume, and that is why a little book on 
+physics contains so many past experiments, and a
+
+22 SCIENCE AND METHOD. 
+thousand times as many possible ones, whose results 
+are known in advance. 
+But so far we have only considered one side of the 
+question. The scientist does not study nature because 
+it is useful to do so. He studies it because he takes 
+pleasure in it, and he takes pleasure in it because it is 
+beautiful. If nature were not beautiful it would not be 
+worth knowing, and life would not be worth living. I 
+am not speaking, of course, of that beauty which 
+strikes the senses, of the beauty of qualities and ap­
+pearances. I am far from despising this, but it has 
+nothing to do with science. What I mean is that 
+more intimate beauty which comes from the harmo­
+nious order of its parts, and which a pure intelligence 
+can grasp. It is this that gives a body a skeleton, 
+so to speak, to the shimmering visions that flatter 
+our senses, and without this support the beauty 
+of these fleeting dreams would be imperfect, because 
+it would be indefinite and ever elusive. Intellectual 
+beauty, on the contrary, is self-sufficing, and it is for 
+it, more perhaps than for the future good of humanity, 
+that the scientist condemns himself to long and painful 
+labours. 
+It is, then, the search for this special beauty, the 
+sense of the harmony of the world, that makes us 
+select the facts best suited to contribute to this har­
+mony; just as the artist selects those features of his 
+sitter which complete the portrait and give it character 
+and life. And there is no fear that this instinctive 
+and unacknowledged preoccupation will divert the 
+scientist from the search for truth. We may dream 
+of a harmonious world, but how far it will fall short 
+of the real world! The Greeks, the greatest artists
+
+THE SELECTION OF FACTS. 23 
+that ever were, constructed a heaven for themselves ; 
+how poor a thing it is beside the heaven as we know it! 
+It is because simplicity and vastness are both beau­
+tiful that we seek by preference simple facts and vast 
+facts ; that we take delight, now in following the giant 
+courses of the stars, now in scrutinizing with a micro­
+scope that prodigious smallness which is also a vastness, 
+and now in seeking in geological ages the traces of a 
+past that attracts us because of its remoteness. 
+Thus we see that care for the beautiful leads us to 
+the same selection as care for the useful. Similarly 
+economy of thought, that economy of effort which, 
+according to Mach, is the constant tendency of science, 
+is a source of beauty as well as a practical advantage. 
+The buildings we admire are those in which the archi­
+tect has succeeded in proportioning the means to the 
+end, in which the columns seem to carry the burdens 
+imposed on them lightly and without effort, like the 
+graceful caryatids of the Erechtheum. 
+Whence comes this concordance? Is it merely 
+that things which seem to us beautiful are those 
+which are best adapted to our intelligence, and that 
+consequently they are at the same time the tools that 
+intelligence knows best how to handle? Or is it due 
+rather to evolution and· natural selection? Have the 
+peoples whose ideal conformed best to their own in­
+terests, properly understood, exterminated the others 
+and taken their place? One and all pursued their 
+ideal without considering the consequences, but while 
+this pursuit led some to their destruction, it gave 
+empire to others. We are tempted to believe this, 
+for if the Greeks triumphed over the barbarians, and 
+if Europe, heir of the thought of the Greeks, dominates
+
+24 SCIENCE AND METHOD. 
+the world, it is due to the fact that the savages loved 
+garish colours and the blatant noise of the drum, which 
+appealed to their senses, while the Greeks loved the 
+intellectual beauty hidden behind sensible beauty, and 
+that it is this beauty which gives certainty and strength 
+to the intelligence. 
+No doubt Tolstoi would be horrified at such a 
+triumph, and he would refuse to admit that it could 
+be truly useful. But this disinterested pursuit of truth 
+for its own beauty is also wholesome, and can make 
+men better. I know very well there are disappoint­
+ments, that the thinker does not always find the 
+serenity he should, and even that some scientists have 
+thoroughly bad tempers. 
+Must we therefore say that science should be 
+abandoned, and morality alone be studied ? Does 
+any one suppose that moralists themselves are entirely 
+above reproach when they have come down from the 
+pulpit?
+
+III. 
+MATHEMATICAL DISCOVERY. 
+THE genesis of mathematical discovery is a problem 
+which must inspire the psychologist with the keenest 
+interest For this is the process in which the human 
+mind seems to borrow least from the exterior world, 
+in which it acts, or appears to act, only by itself and 
+on itself, so that by studying the process of geometric 
+thought we may hope to arrive at what is most 
+essential in the human mind. 
+This has long been understood, and a few months 
+ago a review called /' Enseignement M athematique, 
+edited by MM. Laisant and Fehr, instituted an en­
+quiry into the habits of mind and methods of work 
+of different mathematicians. I had outlined the 
+principal features of this article when the results of 
+the enquiry were published, so that I have hardly been 
+able to make any use of them, and I will content 
+myself with saying that the majority of the evidence 
+confirms my conclusions. I do not say there is 
+unanimity, for on an appeal to universal suffrage we 
+cannot hope .to obtain unanimity. 
+One first ··fact must astonish us, or rather would 
+astonish us if we were not too much accustomed to 
+it How does it happen that there are people who
+
+MATHEMATICAL DISCOVERY. 47 
+do not understand mathematics? If the science 
+invokes only the rules of logic, those accepted by 
+all well-formed minds, if its evidence is founded on 
+principles that are common to all men, and that none 
+but a madman would attempt to deny, how does it 
+happen that there are so many people who are 
+entirely impervious to it? 
+There is nothing mysterious in the fact that every 
+one is not capable of discovery. That every one 
+should not be able to retain a demonstration he has 
+once learnt is still comprehensible. But what does 
+seem most surprising, when we consider it, is that 
+any one should be unable to understand a mathe­
+matical argument at the very moment it is stated to 
+him. And yet those who can only follow the argu­
+ment with difficulty are in a majority ; this is incon­
+testable, and the experience of teachers of secondary 
+education will certainly not contradict me. 
+And still further, how is error possible in mathe­
+matics? A healthy intellect should not be guilty 
+of any error in logic, and yet there are very keen 
+minds which will not make a false step in a short 
+argument such as those we have to make in the 
+ordinary actions of life, which yet are incapable of 
+following or repeating without error the demonstra­
+tions of mathematics which are longer, but which 
+are, after all, only accumulations of short arguments 
+exactly analogous to those they make so easily. Is it 
+necessary to add that mathematicians themselves are 
+not infallible? 
+The answer appears to me obvious. Imagine a 
+long series of syllogisms in which the conclusions of 
+those that precede form the premises of those that
+
+SCIENCE AND METHOD. 
+follow. We shall be capable of grasping each of the 
+syllogisms, and it is not in the passage from premises 
+to conclusion that we are in danger of going astray. 
+But between the moment when we meet a proposition 
+for the first time as the conclusion of one syllogism, 
+and the moment when we find it once more as the 
+premise of another syllogism, much time will some­
+times have elapsed, and we shall have unfolded many 
+links of the chain; accordingly it may well happen 
+that we shall have forgotten it, or, what is more serious, 
+forgotten its meaning. So we may chance to replace 
+it by a somewhat different proposition, or to preserve 
+the same statement but give it a slightly different 
+meaning, and thus we are in danger of falling into 
+error. 
+A mathematician must often use a rule, and, natur­
+ally, he begins by demonstrating the rule. At the 
+moment the demonstration is quite fresh in his 
+memory he understands perfectly its meaning and 
+significance, and he is in no danger of changing it. 
+But later on he commits it to memory, and only 
+applies it in a mechanical way, and then, if his 
+memory fails him, he may apply it wrongly. It is 
+thus, to take a simple and almost vulgar example, 
+that we sometimes make mistakes in calculation, 
+because we have forgotten our multiplication table. 
+On this view special aptitude for mathematics 
+would be due to nothing but a very certain memory 
+or a tremendous power of attention. It would be a 
+quality analogous to that of the whist player who 
+can remember the cards played, or, to rise a step 
+higher, to that of the chess player who can picture 
+a very great number of combinations and retain them
+
+MATHEMATICAL DISCOVERY. 49 
+in his memory. Every good mathematician should 
+also be a good chess player and vice versa, and 
+similarly he should be a good numerical calculator. 
+Certainly this sometimes happens, and thus Gauss 
+was at once a geometrician of genius and a very 
+precocious and very certain calculator. 
+But there are exceptions, or rather I am wrong, 
+for I cannot call them exceptions, otherwise the excep­
+tions would be more numerous than the cases of con­
+formity with the rule. On the contrary, it was Gauss 
+who was an exception. As for myself, I must confess 
+I am absolutely incapable of doing an addition sum 
+without a mistake. Similarly I should be a very bad 
+chess player. I could easily calculate that by playing 
+in a certain way I should be exposed to such and 
+such a danger ; I should then review many other 
+moves, which I should reject for other reasons, and 
+I should end by making the move I first examined, 
+having forgotten in the interval the danger I had 
+foreseen·. 
+In a word, my memory is not bad, but it would be 
+insufficient to make me a good chess player. Why, 
+then, does it not fail me in a difficult mathematical 
+argument in which the majority of chess players 
+would be lost? Clearly because it is guided by the 
+general trend of the argument. A mathematical 
+demonstration is not a simple juxtaposition of syl­
+logisms ; it consists of syllogisms placed in a certain 
+order, and the order in which these elements are 
+placed is much more important than the elements 
+themselves. If I have the feeling, so to speak the 
+intuition, of this order, so that I can perceive the 
+whole of the argument at a glance, I need no longer
+
+50 SCIENCE AND METHOD. 
+be afr::tid of forgetting one of the elements ; each of 
+them will place itself naturally in the position pre­
+pared for it, without my having to make any effort 
+of memory. 
+It seems to me, then, as I repeat an argument I 
+have learnt, that I could have discovered it. This 
+is often only art illusion; but even then, even if I am 
+not clever enough to create for myself, I rediscover 
+it myself as I repeat it. 
+We can understand that this feeling, this intuition 
+of mathematical order, which enables us to guess 
+hidden harmonies and relations, cannot belong to 
+every one. Some have neither this delicate feeling 
+that is difficult to define, nor a power of memory and 
+attention above the common, and so they are abso­
+lutely incapable of understanding even the first steps 
+of higher mathematics. This applies to the majority 
+of people. Others have the feeling only in a slight 
+degree, but they are gifted with an uncommon 
+memory and a great capacity for attention. They 
+learn the details one after the other by heart, they 
+can understand mathemathics and sometimes apply 
+them, but they are not in a condition to create. 
+Lastly, others possess the special intuition I have 
+spoken of more or less highly developed, and they 
+can not only understand mathematics, even though 
+their memory is in no way extraordinary, but they 
+can become creators, and seek to make discovery 
+with more or less chance of success, according as their 
+intuition is more or less developed. 
+What, in fact, is mathematical discovery? It does 
+not consist in making new combinations with mathe­
+matical entities that are already known. That can
+
+MATHEMATICAL DISCOVERY. 5I 
+be done by any one, and the combinations that could 
+be so formed would be infinite in number, and the 
+greater part of them would be absolutely devoid of 
+interest. Discovery consists precisely in not con­
+structing useless combinations, but in constructing 
+those that are useful, which are an infinitely small 
+minority. Discovery is discernment, selection. 
+How this selection is to be made I have explained 
+above. Mathematical facts worthy of being studied 
+are those which, by their analogy with other facts, 
+are capable of conducting us to the knowledge of a 
+mathematical law, in the same way that experimental 
+facts conduct us to the knowledge of a physical law. 
+They are those which reveal unsuspected relations 
+between other facts, long since known, but wrongly 
+believed to be unrelated to each other. 
+Among the combinations we choose, the most fruit­
+ful are often those which are formed of elements 
+borrowed from widely separated domains. I do not 
+mean to say that for discovery it is sufficient to bring 
+together objects that are as incongruous as possible. 
+The greater part of the combinations so formed would 
+be entirely fruitless, but some among them, though 
+very rare, are the most fruitful of all. 
+Discovery, as I have said, is selection. But this is 
+perhaps not quite the right word. It suggests a pur­
+chaser who has been shown a large number of samples, 
+and examines them one after the other in order to 
+make his selection. In our case the samples would be 
+so numerous that a whole life would not give sufficient 
+time to examine them. Things do not happen in this 
+way. Unfruitful combinations do not so much as 
+present themselves to the mind of the discoverer. In
+
+52 SCIENCE AND METHOD. 
+the field of his consciousness there never appear any 
+but really useful combinations, and some that he 
+rejects, which, however, partake to some extent of 
+the character of useful combinations. Everything 
+happens as if the discoverer were a secondary examiner 
+who had OrfY to interrogate candidates declared eli­
+gible after passing a preliminary test. 
+But what I have said up to now is only what can 
+be observed or inferred by reading the works of 
+geometricians, provided they are read with some 
+reflection. 
+It is time to penetrate further, and to see what 
+happens in the very soul of the mathematician. For 
+this purpose I think I cannot do better than recount 
+my personal recollections. Only I am going to confine 
+myself to relating how I wrote my first treatise on 
+Fuchsian functions. I must apologize, for I am going 
+to introduce some technical expressions, but they need 
+not alarm the reader, for he has no need to under­
+stand them. I shall say, for instance, that I found the 
+demonstration of such and such a theorem under such 
+and such circumstances; the theorem will have a 
+barbarous name that many will not know, but that 
+is of no importance. What is interesting for the 
+psychologist is not the theorem but the circumstances. 
+For a fortnight I had been attempting to prove 
+that there could not be any function analogous to 
+what I have since called Fuchsian functions. I was at 
+that time very ignorant. Every day I sat down at my 
+table and spent an hour or two trying a great number 
+of combinations, and I arrived at no result. One 
+night I took some black coffee, contrary to my custom, 
+and was unable to sleep. A host of ideas kept surging
+
+MATHEMATICAL DISCOVERY. 53 
+in my head; I could almost feel then jostling one 
+another, until two of them coalesced, so to speak, to 
+form a stable combination. When morning came, I 
+had established the existence of one class of Fuchsian 
+functions, those that are derived from the hyper­
+geometric series. I had only to verify the results, 
+which only took a few hours. 
+Then I wished to represent these functions by the 
+quotient of two series. This idea was perfectly con­
+scious and deliberate ; I was guided by the analogy 
+with elliptical functions. I asked myself what must 
+be the properties of these series, if they existed, and 
+I succeeded without difficulty in forming the series 
+that I have called Theta-Fuchsian. 
+At this moment I left Caen, where I was then living, 
+to take part in a geological conference arranged by 
+the School of Mines. The incidents of the journey 
+made me forget my mathematical work. When we 
+arrived at Coutances, we got into a break to go 
+for a drive, and, just as I put my foot on the 
+step, the idea came to me, though nothing in my 
+former thoughts seemed to have prepared me for it, 
+that the transformations I had used to define Fuchsian 
+functions were identical with those of non-Euclidian 
+geometry. I made no verification, and had no time to 
+do so, since I took up the conversation again as soon 
+as I had sat down in the break, but I felt absolute 
+certainty at once. When I got back to Caen I verified 
+the result at my leisure to satisfy my conscience. 
+I then began to study arithmetical questions without 
+any great apparent result, and without suspecting that 
+they could have the least connexion with my previous 
+researches. Disgusted at my want of success, I went
+
+54 SCIENCE AND METHOD. 
+4' 
+away to spend a few days at the seaside, and 
+thought of entirely different things. One day, as I 
+was walking on the cliff, the idea came to me, again 
+with the sam~ characteristics of conciseness, sudden­
+ness, and immediate certainty, that arithmetical trans­
+formations of indefinite ternary quadratic forms are 
+identical with those of non-Euclidian geometry. 
+Returning to Caen, I reflected on this result and 
+deduced its consequences. The example of quadratic 
+forms showed me that there are Fuchsian groups 
+other than those which correspond with the hyper­
+geometric series ; I saw that I could apply to them 
+the theory of the Theta-Fuchsian series, and that, 
+consequently, there are Fuchsian functions other than 
+those which are derived from the hypergeometric series, 
+the only ones I knew up to that time. Naturally, I 
+proposed to form all these functions. I laid siege 
+to them systematically and captured all the outworks 
+one after the other. There was one, however, which 
+still held out, whose fall would carry with it that of the 
+central fortress. But all my efforts were of no avail at 
+first, except to make me better understand the difficulty, 
+which was already something. All this work was per­
+fectly conscious. 
+Thereupon I left for Mont- Valerien, where I had 
+to serve my time in the army, and so my mind was 
+preoccupied with very different matters. One day, as 
+I was crossing the street, the solution of the difficulty 
+which had brought me to a standstill came to me 
+all at once. I did not try to fathom it immediately, 
+and it was only after my service was finished that 
+I returned to the question. I had all the elements, 
+and had only to assemble and arrange them. Accord-
+
+MATHEMATICAL DISCOVERY. 55 
+ingly I composed my definitive treatise at a sitting 
+and without any difficulty. 
+It is useless to multiply examples, and I will con­
+tent myself with this one alone. As regards my other 
+researches, the accounts I should give would be exactly 
+similar, and the observations related by other mathe­
+maticians in the enquiry of l'Ensez"gnement Mathe­
+matz"que would only confirm them. 
+One is at once struck by these appearances of 
+sudden illumination, obvious indications of a long 
+course of previous unconscious work. The part played 
+by this unconscious work in mathematical discovery 
+seems to me indisputable, and we shall find traces 
+of it in other cases where it is less evident. Often 
+when a man is working at a difficult question, he 
+accomplishes nothing the first time he sets to work. 
+Then he takes more or less of a rest, and sits down 
+again at his table. During the first half-hour he still 
+finds nothing, and then all at once the decisive idea 
+presents itself to his mind. We might say that the 
+conscious work proved more fruitful because it was 
+interrupted and the rest restored force and freshness 
+to the mind. But it is more probable that the rest 
+was occupied with unconscious work, and that the 
+result of this work was afterwards revealed to the 
+geometrician exactly as in the cases I have quoted, 
+except that the revelation, instead of coming to light 
+during a walk or a journey, came during a period 
+of conscious work, but independently of that work, 
+which at most only performs the unlocking process, 
+as if it were the spur that excited into conscious form 
+the results already acquired during the rest, which till 
+then remained unconscious.
+
+SCIENCE AND METHOD. 
+There is another remark to be made regarding 
+the conditions of this unconscious work, which is, that 
+it is not possible, or in any case not fruitful, unless 
+it is first preceded and then followed by a perioq 
+of conscious work These sudden inspirations are 
+never produced (and this is sufficiently proved already 
+by the examples I have quoted) except after some 
+days of voluntary efforts which appeared absolutely 
+fruitless, in which one thought one had accomplished 
+nothing, and seemed to be on a totally wrong track. 
+These efforts, however, were not as barren as one 
+thought ; they set the unconscious machine in motion, 
+and without them it would not have worked at all, 
+and would not have produced anything. 
+The necessity for the second period of conscious 
+work can be even more readily understood. It is 
+necessary to work out the results of the inspiration, 
+to deduce the immediate consequences and put them 
+in order and to set out the demonstrations ; but, above 
+all, it is necessary to verify them. I have spoken 
+of the feeling of absolute certainty which accompanies 
+the inspiration ; in the cases quoted this feeling was 
+not deceptive, and more often than not this will be 
+the case. But we must beware of thinking that this 
+is a rule without exceptions. Often the feeling de­
+ceives us without being any less distinct on that 
+account, and we only detect it when we attempt to 
+establish the demonstration. I have observed this 
+fact most notably with regard to ideas that have come 
+to me in the morning or at night when I have been 
+in bed in a semi-somnolent condition. 
+Such are the facts of the case, and they suggest the 
+following reflections. The result of all that precedes
+
+MATHEMATICAL DISCOVERY. 57 
+is to show that the unconscious ego, or, as it is called, 
+the subliminal ego, plays a most important part 
+in mathematical discovery. But the subliminal ego 
+is generally thought of as purely automatic. Now we 
+have seen that mathematical work is not a simple 
+mechanical work, and that it could not be entrusted 
+to any machine, whatever the degree of perfection we 
+suppose it to have been brought to. It is not merely 
+a question of applying certain rules, of manufacturing 
+as many combinations as possible according to certain 
+fixed laws. The combinations so obtained would 
+be extremely numerous, useless, and encumbering. 
+The real work of the discoverer consists in choosing 
+between these combinations with a view to eliminating 
+those that are useless, or rather not giving himself 
+the trouble of making them at all. The rules which 
+must guide this choice are extremely subtle and 
+delicate, and it is practically impossible to state them 
+in precise language; they must be felt rather than for­
+mulated. Under these conditions, how can we imagine 
+a sieve capable of applying them mechanically? 
+The following, then, presents itself as a first hypoth­
+esis. The subliminal ego is in no way inferior to the 
+conscious ego; it is not purely automatic; it is capable 
+of discernment ; it has tact and lightness of touch ; 
+it can select, and it can divine. More than that, 
+it can divine better than the conscious ego, since 
+it succeeds where the latter fails. In a word, is not 
+the subliminal ego superior to the conscious ego? 
+The importance of this question will be readily 
+understood. In a recent lecture, M. Boutroux showed 
+how it had arisen on entirely different occasions, and 
+what consequences would be involved by an answer
+
+58 SCIENCE AND METHOD. 
+in the affirmative. (See also the same author's 
+Scz"ence et Religion, pp. 3 I 3 et seq.) 
+Are we forced to give this affirmative answer by 
+the facts I have just stated? I confess that, for my 
+part, I should be loth to accept it. Let us, then, 
+return to the facts, and see if they do not admit of 
+some other explanation. 
+It is certain that the combinations which present 
+themselves to the mind in a kind of sudden illumina­
+tion after a somewhat prolonged period of unconscious 
+work are generally useful and fruitful combinations, 
+which appear to be the result of a preliminary sifting. 
+Does it follow from this that the subliminal ego, 
+having divined by a delicate intuition that these 
+combinations could be useful, has formed none but 
+these, or has it formed a great many others which 
+were devoid of interest, and remained unconscious? 
+Under this second aspect, all the combinations are 
+formed as a result of the automatic action of the 
+subliminal ego, but those only which are interesting 
+find their way into the field of consciousness. This, too, 
+is most mysterious. How can we explain the fact that, 
+of the thousand products of our unconscious activity, 
+some are invited to cross the threshold, while others 
+remain outside? Is it mere chance that gives them 
+this privilege? Evidently not. For instance, of 
+all the excitements of our senses, it is only the most 
+intense that retain our attention, unless it has been 
+directed upon them by other causes. More commonly 
+the privileged unconscious phenomena, those that are 
+capable of becoming conscious, are those which, 
+directly or indirectly, most deeply affect our sen­
+sibility.
+
+MATHEMATICAL DISCOVERY. 59 
+It may appear surprising that sensibility should 
+be introduced in connexion with mathematical de­
+monstrations, which, it would seem, can only interest 
+the intellect. But not if we bear in mind the feeling 
+of mathematical beauty, of the harmony of numbers 
+and forms and of geometric elegance. It is a real 
+::esthetic feeling that all true mathematicians recognize, 
+and this is truly sensibility. 
+Now, what are the mathematical entities to which 
+we attribute this character of beauty and elegance, 
+which are capable of developing in us a kind of 
+::esthetic emotion? Those whose elements are har­
+moniously arranged so that the mind can, without 
+effort, take in the whole without neglecting the details. 
+This harmony is at once a satisfaction to our ::esthetic 
+requirements, and an assistance to the mind which 
+it supports and guides. At the same time, by setting 
+before our eyes a well-ordered whole, it gives us 
+a presentiment of a mathematical law. Now, as I 
+have said above, the only mathematical facts worthy 
+of retaining our attention and capable of being useful 
+are those which can make us acquainted with a 
+mathematical law. Accordingly we arrive at the 
+following conclusion. The useful combinations are 
+precisely the most beautiful, I mean those that can 
+most charm that special sensibility that all mathe­
+maticians know, but of which laymen are so ignorant 
+that they are often tempted to smile at it. 
+What follows, then? Of the very large number of 
+combinations which the subliminal ego blindly forms, 
+almost all are without interest and without utility. 
+But, for that very reason, they are without action on 
+the ::esthetic sensibility; the consciousness will never
+
+6o SCIENCE AND METHOD. 
+know them. A few only are harmonious, and con­
+sequently at once useful and beautiful, and they 
+will be capable of affecting the geometrician's special 
+sensibility I have been speaking of; which, once 
+aroused, will direct our attention upon them, and will 
+thus give them the opportunity of becoming conscious. 
+This is only a hypothesis, and yet there is an 
+observation which tends to confirm it. When a 
+sudden illumination invades the mathematician's mind, 
+it most frequently happens that it does not mislead 
+him. But it also happens sometimes, as I have said, 
+that it will not stand the test of verification. Well, 
+it is to be observed almost always that this false idea, 
+if it had been correct, would have flattered our natural 
+instinct for mathematical elegance. 
+Thus it is this special cesthetic sensibility that plays 
+the part of the delicate sieve of which I spoke above, 
+and this makes it ~ufficiently clear why the man who 
+has it not will never be a real discoverer. 
+All the difficulties, however, have not disappeared. 
+The conscious ego is strictly limited, but as regards 
+the subliminal ego, we do not know its limitations, 
+and that is why we are not too loth to suppose 
+that in a brief space of time it can form more 
+different combinations than could be comprised in 
+the whole life of a conscient being. These limitations 
+do exist, however. Is it conceivable that it can form 
+all the possible combinations, whose number staggers 
+the imagination? Nevertheless this would seem to be 
+necessary, for if it produces only a small portion of the 
+combinations, and that by chance, there will be very 
+small likelihood of the right one, the one that must be 
+selected, being found among them.
+
+MATHEMATICAL DISCOVERY. 6r 
+Perhaps we must look for the explanation in that 
+period of preliminary conscious work which always 
+precedes all fruitful unconscious work. If I may 
+be permitted a crude comparison, let us represent the 
+future elements of our combinations as something 
+resembling Epicurus's hooked atoms. When the mind 
+is in complete repose these atoms are immovable; 
+they are, so to speak, attached to the wall. This com­
+plete repose may continue indefinitely without the 
+atoms meeting, and, consequently, without the pos­
+sibility of the formation of any combination. 
+On the other hand, during a period of apparent 
+repose, but of unconscious work, some of them are 
+detached from the wall and set in motion. They 
+plough through space in all directions, like a swarm 
+of gnats, for instance, or, if we prefer a more learned 
+comparison, like the gaseous molecules in the kinetic 
+theory of gases. Their mutual collisions may then 
+produce new combinations. 
+What is the part to be played by the preliminary 
+conscious work? Clearly it is to liberate some of 
+these atoms, to detach them from the wall and set 
+them in motion. We think we have accomplished 
+nothing, when we have stirred up the elements in a 
+thousand different ways to try to arrange them, and 
+have not succeeded in finding a satisfactory arrange­
+ment. But after this agitation imparted to them by 
+our will, they do not return to their original repose, 
+but continue to circulate freely. 
+Now our will did not select them at random, but 
+in pursuit of a perfectly definite aim. Those it has 
+liberated are not, therefore, chance atoms; they are 
+those from which we may rea<onably expect the
+
+6z SCIENCE AND METHOD. 
+desired solution. The liberated atoms will then 
+experience collisions, either with each other, or with 
+the atoms that have remained stationary, which 
+they will run against in their course. I apologize 
+once more. My comparison is very crude, but I 
+cannot well see how I could explain my thought 
+in any other way. 
+However it be, the only combinations that have 
+any chance of being formed are those in which one 
+at least of the elements is one of the atoms deliber­
+ately selected by our will. Now it is evidently 
+among these that what I called just now the right 
+combination is to be found. Perhaps there is here 
+a means of modifying what was paradoxical in the 
+original hypothesis. 
+Yet another observation. It never happens that 
+unconscious work supplies ready-made the result of 
+a lengthy calculation in which we have only to apply 
+fixed rules. It might be supposed that the sub­
+liminal ego, purely automatic as it is, was peculiarly 
+fitted for this kind of work, which is, in a sense, ex­
+clusively mechanical. It would seem that, by think­
+ing overnight of the factors of a multiplication sum, 
+we might hope to find the product ready-made for 
+us on waking; or, again, that an algebraical calcula­
+tion, for instance, or a verification could be made 
+unconsciously. Observation proves that such is by no 
+means the case. All that we can hope from these 
+inspirations, which are the fruits of unconscious 
+work, is to obtain points of departure for such 
+calculations. As for the calculations themselves, 
+they must be made in the second period of conscious 
+work which follows the inspiration, and in which
+
+MATHEMATICAL DISCOVERY. 63 
+the results of the inspiration are verified and the 
+consequences deduced. The rules of these calcula­
+tions are strict and complicated ; they demand disci­
+pline, attention, will, and consequently consciousness. 
+In the subliminal ego, on the contrary, there reigns 
+what I would call liberty, if one could give this 
+name to the mere absence of discipline and to dis­
+order born of chance. Only, this very disorder permits 
+of unexpected couplings. 
+I will make one last remark. When I related 
+above some personal observations, I spoke of a night 
+of excitement, on which I worked as though in spite 
+of myself. The cases of this are frequent, and it is 
+not necessary that the abnormal cerebral activity 
+should be caused by a physical stimulant, as in the 
+case quoted. Well, it appears that, in these cases, 
+we are ourselves assisting at our own unconscious 
+work, which becomes partly perceptible to the over­
+excited consciousness, but does not on that account 
+change its nature. We then become vaguely aware 
+of what distinguishes the two mechanisms, or, if you 
+will, of the methods of working of the two egos. 
+The psychological observations I have thus suc­
+ceeded in making appear to me, in their general 
+characteristics, to confirm the views I have been 
+enunciating. 
+Truly there is great need of this, for in spite of 
+everything they are and remain largely hypothetical. 
+The interest of the question is so great that I do 
+not regret having submitted them to the reader.
+
+I. 
+THE RELATIVITY OF SPACE. 
+I. 
+IT is impossible to picture empty space. All our 
+efforts to imagine pure space from which the changing 
+images of material objects are excluded can only 
+result in a representation in which highly-coloured 
+surfaces, for instance, are replaced by lines of slight 
+colouration, and if we continued in this direction to the 
+end, everything would disappear and end in nothing. 
+Hence arises the irreducible relativity of space. 
+Whoever speaks of absolute space uses a word de­
+void of meaning. This is a truth that has been long 
+proclaimed by all who have reflected on the question, 
+but one which we are too often inclined to forget. 
+If I am at a definite point in Paris, at the Place 
+du Pantheon, for instance, and I say, "I will come 
+back here to-morrow;" if I am asked," Do you mean 
+that you will come back to the same point in space?" 
+I should be tempted to answer yes. Yet I should 
+be wrong, since between now and to-morrow the earth 
+will have moved, carrying with it the Place du Pan­
+theon, which will have travelled more than a million 
+miles. And if I wished to speak more accu-rately, I 
+should gain nothing, since this million of miles has
+
+94 SCIENCE AND METHOD. 
+been covered by our globe in its motion in relation 
+to the sun, and the sun in its turn moves in relation 
+to the Milky Way, and the Milky Way itself is no 
+doubt in motion without our being able to recognize 
+its velocity. So that we are, and shall always be, 
+completely ignorant how far the Place du Pantheon 
+moves in a day. In fact, what I meant to say was, 
+"To-morrow I shall see once more the dome and 
+pediment of the Pantheon," and if there was no 
+Pantheon my sentence would have no meaning and 
+space would disappear. 
+This is one of the most commonplace forms of the 
+principle of the relativity of space, but there is another 
+on which Delbeuf has laid particular stress. Suppose 
+that in one night all the dimensions of the universe 
+became a thousand times larger. The world will 
+remain sz'mz'lar to itself, if we give the word similz'tude 
+the meaning it has in the third book of Euclid. 
+Only, what was formerly a metre long will now measure 
+a kilometre, and what was a millimetre long will 
+become a metre. The bed in which I went to sleep 
+and my body itself will have grown in the same 
+proportion. When I wake in the morning what will 
+be my feeling in face of such an astonishing trans­
+formation? Well, I shall not notice anything at all. 
+The most exact measures will be incapable of revealing 
+anything of this tremendous change, since the yard­
+measures I shall use will have varied in exactly the 
+same proportions as the objects I shall attempt to 
+measure. In reality the change only exists for those 
+who argue as if space were absolute. If I have argued 
+for a moment as they do, it was only in order to make 
+it clearer that their view implies a contradiction. In
+
+THE RELATIVITY OF SPACE. 95 
+reality it would be better to say that as space is 
+relative, nothing at all has happened, and that it is 
+for that reason that we have noticed nothing. 
+Have we any right, therefore, to say that we know 
+the distance between two points? No, since that 
+distance could undergo enormous variations without 
+our being able to perceive it, provided other distances 
+varied in the same proportions. We saw just now 
+that when .I say I shall be here to-morrow, that does 
+not mean that to-morrow I shall be at the point in 
+space where I am to-day, but that to-morrow I shall 
+be at the same distance from the Pantheon as I am 
+to-day. And already this statement is not sufficient, 
+and I ought to say that to-morrow and to-day my 
+distance from the Pantheon will be equal to the same 
+number of times the length of my body. 
+But that is not all. I imagined the dimensions of 
+the world changing, but at least the world remaining 
+always similar to itself. We can go much further than 
+that, and one of the most surprising theories of modern 
+physicists will furnish the occasion. According to 
+a hypothesis of Lorentz and Fitzgerald,* all bodies 
+carried forward in the earth's motion undergo a de­
+formation. This deformation is, in truth, very slight, 
+since all dimensions parallel with the earth's motion 
+are diminished by a hundred-millionth, while dimen­
+sions perpendicular to this motion are not altered. 
+But it matters little that it is slight ; it is enough 
+that it should exist for the conclusion I am soon 
+going to draw from it Besides, though I said that 
+it is slight, I reall~' know nothing about it. I have 
+myself fallen a victim to the tenacious illusion that 
+* Vide infi·a, Book Ill. Chap. ii.
+
+g6 SCIENCE AND METHOD. 
+makes us believe that we think of an absolute space. 
+I was thinking of the earth's motion on its elliptical 
+orbit round the sun, and I allowed 18 miles a second 
+for its velocity. But its true velocity (I mean this 
+time, not its absolute velocity, which has no sense, 
+but its velocity in relation to the ether), this I do not 
+know and have no means of knowing. It is, perhaps, 
+10 or 100 times as high, and then the deformation 
+will be 100 or 10,000 times as great. 
+It is evident that we cannot demonstrate this de­
+formation. Take a cube with sides a yard long. It 
+is deformed on account of the earth's velocity; one 
+of its sides, that parallel with the motion, becomes 
+smaller, the others do not vary. If I wish to assure 
+myself of this with the help of a yard-measure, I shall 
+measure first one of the sides perpendicular to the 
+motion, and satisfy myself that my measure fits this 
+side exactly ; and indeed neither one nor other of 
+these lengths is altered, since they are both perpendic­
+ular to the motion. I then wish to measure the other 
+side, that parallel with the motion ; for this purpose 
+I change the position of my measure, and turn it so 
+as to apply it to this side. But the yard-measure, 
+having changed its direction and having become paral­
+lel with the motion, has in its turn undergone the 
+deformation, so that, though the side is no longer a 
+yard long, it will stiii fit it exactly, and I shall be 
+aware of nothing. 
+What, then, I shall be asked, is the use of the 
+hypothesis of Lorentz and Fitzgerald if no experiment 
+can enable us to verify it? The fact is that my state­
+ment has been incomplete. I have only spoken of 
+measurements that can be made with a yard-measure,
+
+THE RELATIVITY OF SPACE. 97 
+but we can also measure a distance by the time that 
+light takes to traverse it, on condition that we admit 
+that the velocity of light is constant, and independent 
+of its direction. Lorentz could have accounted for the 
+facts by supposing that the velocity of light is greater 
+in the direction of the earth's motion than in the 
+perpendicular direction. He preferred to admit that 
+the velocity is the same in the two directions, but that 
+bodies are smaller in the former than in the latter. If 
+the surfaces of the waves of light had undergone the 
+same deformations as material bodies, we should never 
+have perceived the Lorentz-Fitzgerald deformation. 
+In the one case as in the other, there can be no 
+question of absolute magnitude, but of the meas­
+urement of that magnitude by means of some instru­
+ment. This instrument may be a yard-measure or 
+the path traversed by light. It is only the relation 
+of the magnitude to the instrument that we measure, 
+and if this relation is altered, we have no means of 
+knowing whether it is the magnitude or the instrument 
+that has changed. 
+But what I wish to make clear is, that in this 
+deformation the world has not remained similar to 
+itself. Squares have become rectangles or parallel­
+ograms, circles ellipses, and spheres ellipsoids. And 
+yet we have no means of knowing whether this de­
+formation is real. 
+It is clear that we might go much further. Instead 
+of the Lorentz-Fitzgerald deformation, with its ex­
+tremely simple laws, we might imagine a deformation 
+of any kind whatever ; bodies might be deformed in 
+accordance with any laws, as complicated as we liked, 
+and we should not perceive it, provided all bodies
+
+9~ SCIENCE AND METHOD. 
+without exception were deformed in accordance with 
+the same laws.' When I say all bodies without excep­
+tion, I include, of course, our own bodies and the rays 
+of light emanating from the different objects. 
+If we look at the world in one of those mirrors 
+of complicated form which deform objects in an odd 
+way, the mutual relations of the different parts of the 
+world are not altered ; if, in fact, two real objects 
+touch, their images likewise appear to touch. In truth, 
+when we look in such a mirror we readily perceive the 
+deformation, but it is because the real world exists 
+beside its deformed image. And even if this real 
+world were hidden from us, there is something which 
+cannot be hidden, and that is ourselves. We cannot 
+help seeing, or at least feeling, our body and our 
+members which have not been deformed, and continue 
+to act as measuring instruments. But if we imagine 
+our body itself deformed, and in the same way as if 
+it were seen in the mirror, these measuring instruments 
+will fail us in their turn, and the deformation will 
+no longer be able to be ascertained. 
+Imagine, in the same way, two universes which are 
+the image one of the other. With each object P in 
+the universe A, there corresponds, in the universe B, 
+an object P1 which is its image. The co-ordinates 
+of this image P1 are determinate functions of those 
+of the object P; moreover, these functions may be 
+of any kind whatever-! assume only that they are 
+chosen once for all. Between the position of P and 
+that of P1 there is a constant relation ; it matters little 
+what that relation may be, it is enough that it should 
+be constant. 
+Well, these two universes will be indistinguishable.
+
+THE RELATIVITY OF SPACE. 99 
+I mean to say that the former will be for its inhab­
+itants what the second is for its own. This would 
+be true so long as the two universes remained foreign 
+to one another. Suppose we are inhabitants of the 
+universe A ; we have constructed our science and 
+particularly our geometry. During this time the in­
+habitants of the universe B have constructed a science, 
+and as their world is the image of ours, their geometry 
+will also be the image of ours, or, more accurately, 
+it will be the same. But if one day a window were to 
+open for us upon the universe B, we should feel 
+contempt for them, and we should say, "These 
+wretched people imagine that they have made a 
+geometry, but what they so name is only a grotesque 
+image of ours ; their straight lines are all twisted, 
+their circles are hunchbacked, and their spheres have 
+capricious inequalities." We should have no suspicion 
+that they were saying the same of us, and that no 
+one will ever know which is right. 
+We see in how large a sense we must understand 
+the relativity of space. Space is in reality amorphous, 
+and it is only the things that are in it that give it 
+a form. What are we to think, then, of that direct 
+intuition we have of a straight line or of distance? 
+We have so little the intuition of distance in itself 
+that, in a single night, as we have said, a distance 
+could become a thousand times greater without our 
+being able to perceive it, if all other distances had 
+undergone the same alteration. And in a night the 
+universe B might even be substituted for the universe 
+A without our having any means of knowing it, and 
+then the straight lines of yesterday would have ceased 
+to be straight, and we should not be aware of anything.
+
+Ioo SCIENCE AND METHOD. 
+One part of space is not by itself and in the absolute 
+sense of the word equal to another part of space, for 
+if it is so for us, it will not be so for the inhabitants of 
+the universe B, and they have precisely as much right 
+to reject our opinion as we have to condemn theirs. 
+I have shown elsewhere what are the consequences 
+of these facts from the point of view of the idea that 
+we should construct non-Euclidian and other analogous 
+geometries. I do not wish to return to this, and 
+I will take a somewhat different point of view. 
+II. 
+If this intuition of distance, of direction, of the 
+straight line, if, in a word, this direct intuition of space 
+does not exist, whence comes it that we imagine 
+we have it? If this is only an illusion, whence comes 
+it that the illusion is so tenacious? This is what 
+we must examine. There is no direct intuition of 
+magnitude, as we have said, and we can only arrive 
+at the relation of the magnitude to our measuring 
+instruments. Accordingly we could not have con­
+structed space if we had not had an instrument 
+for measuring it. Well, that instrument to which we 
+refer everything, which we use instinctively, is our 
+own body. It is in reference to our own body that we 
+locate exterior objects, and the only special relations 
+of these objects that we can picture to ourselves are 
+their relations with our body. It is our body that 
+serves us, so to speak, as a system of axes of 
+co-ordinates. 
+For instance, at a moment a the presence of an 
+object A is revealed to me by the sense of sight ; at 
+another moment /3 the presence of another object
+
+THE RELATIVITY OF SPACE. ror 
+B is revealed by another sense, that, for instance, 
+of hearing or of touch. I judge that this object B 
+occupies the same place as the object A. What does 
+this mean? To begin with, it does not imply that 
+these two objects occupy, at two different moments, 
+the same point in an absolute space, which, even 
+if it existed, would escape our knowledge, since 
+between the moments a and f3 the solar system has 
+been displaced and we cannot know what this dis­
+placement is. It means that these two objects occupy 
+the same relative position in reference to our body. 
+But what is meant even by this? The impressions 
+that have come to us from these objects have followed 
+absolutely different paths-the optic nerve for the 
+object A, and the acoustic nerve for the object B ; 
+they have nothing in common from the qualitative 
+point of view. The representations we can form of 
+these two objects are absolutely heterogeneous and 
+irreducible one to the other. Only I know that, 
+in order to reach the object A, I have only to extend 
+my right arm in a certain way ; even though I refrain 
+from doing it, I represent to myself the muscular and 
+other analogous sensations which accompany that 
+extension, and that representation is associated with 
+that of the object A. 
+Now I know equally that I can reach the object B 
+by extending my right arm in the same way, an 
+extension accompanied by the same train of muscular 
+sensations. And I mean nothing else but this when 
+I say that these two objects occupy the same 
+position. 
+I know also that I could have reached the object A 
+by another appropriate movement of the left arm,
+
+roz SCIENCE ANb METHOD. 
+and I represent to myself the muscular sensations that 
+would have accompanied the movement And by 
+the same movement of the left arm, accompanied 
+by the same sensations, I could equally have reached 
+the object B. 
+And this is very important, since it is in this 
+way that I could defend myself against the dangers 
+with which the object A or the object B might threaten 
+me. With each of the blows that may strike us, 
+nature has associated one or several parries which 
+enable us to protect ourselves against them. The 
+same parry may answer to several blows. It is 
+thus, for instance, that the same movement of the 
+right arm would have enabled us to defend our­
+selves at the moment a against the object A, and 
+at the moment f3 against the object B. Similarly, tFte 
+same blow may be parried in several ways, and we 
+have said, for instance, that we could reach the object 
+A equally well either by a certain movement of the 
+right arm, or by a certain movement of the left. 
+All these parries have nothing in common with one 
+another, except that they enable us to avoid the same 
+blow, and it is that, and nothing but that, we 
+mean when we say that they are movements ending 
+in the same point in space. Similarly, these objects, 
+of which we say that they occupy the same point in 
+space, have nothing in common, except that the same 
+parry can enable us to defend ourselves against them. 
+Or, if we prefer it, let us imagine innumerable 
+telegraph wires, some centripetal and others centri­
+fugal. The centripetal wires warn us of accidents 
+that occur outside, the centrifugal wires have to 
+provide the remedy. Connexions are established
+
+THE RELATIVITY OF SPACE. ro3 
+in such a way that when one of the centripetal wires 
+is traversed by a current, this current acts on a central 
+exchange, and so excites a current in one of the 
+centrifugal wires, and matters are so arranged that 
+several centripetal wires can act on the same centri­
+fugal wire, if the same remedy is applicable to several 
+evils, and that one centripetal wire can disturb several 
+centrifugal wires, either simultaneously or one in 
+default of the other, every time that the same evil 
+can be cured by several remedies. 
+It is this complex system of associations, it is this 
+distribution board, so to speak, that is our whole 
+geometry, or, if you will, a:ll that is distinctive in our 
+geometry. What we call our intuition of a straight 
+line or of distance is the consciousness we have of 
+these associations and of their imperious character. 
+Whence this imperious character itself comes, it 
+is easy to understand. The older an association is, 
+the more indestructible it will appear to us. But 
+these associations are not, for the most part, conquests 
+made by the individual, since we see traces of them 
+in the newly-born infant; they are conquests made 
+by the race. The more necessary these conquests 
+were, the more quickly they must have been brought 
+about by natural selection. 
+On this account those we have been speaking 
+of must have been among the earliest, since without 
+them the defence of the organism would have been 
+impossible. As soon as the cells were no longer 
+merely in juxtaposition, as soon as they were called 
+upon to give mutual assistance to each other, some 
+such mechanism as we have been describing must 
+necessarily have been organized in order that the
+
+ro4 SCIENCE AND METHOD. 
+assistance should meet the danger without mis­
+carrying. 
+When a frog's head has been cut off, and a drop of 
+acid is placed at some point on its skin, it tries 
+to rub off the acid with the nearest foot ; and if that 
+foot is cut off, it removes it with the other foot Here 
+we have, clearly, that double parry I spoke of just now, 
+making it possible to oppose an evil by a second 
+remedy if the first fails. It is this multiplicity of 
+parries, and the resulting co-ordination, that is space. 
+We see to what depths of unconsciousness we have 
+to descend to find the first traces of these spacial 
+associations, since the lowest parts of the nervous 
+system alone come into play. Once we have rea­
+lized this, how can we be astonished at the resistance 
+we oppose to any attempt to dissociate what has been 
+so long associated ? Now, it is this very resistance 
+that we call the evidence of the truths of geometry. 
+This evidence is nothing else than the repugnance we 
+feel at breaking with very old habits with which we 
+have always got on very well. 
+III. 
+The space thus created is only a small space that 
+noes not extend beyond what my arm can reach, 
+and the intervention of memory is necessary to set 
+back its limits. There are points that will always 
+remain out of my reach, whatever effort I may make 
+to stretch out my hand to them. If I were attached 
+to the ground, like a sea-polype, for instance, which 
+can only extend its tentacles, all these points would 
+be outside space, since the sensations we might 
+experience from the action of bodies placed there
+
+THE RELATIVITY OF SPACE. 105 
+would not be associated with the idea of any move­
+ment enabling us to reach them, or with any appro­
+priate parry. These sensations would not seem to us 
+to have any spacial character, and we should not 
+attempt to locate them. 
+But we are not fixed to the ground like the inferior 
+animals. If the enemy is too far off, we can advance 
+upon him first and extend our hand when we are near 
+enough. This is still a parry, but a long-distance 
+parry. Moreover, it is a complex parry, and into the 
+representation we make of it there enter the repre­
+sentation of the muscular sensations caused by the 
+movement of the legs, that of the muscular sensations 
+caused by the final movement of the arm, that of the 
+sensations of the semi-circular canals, etc. Besides, we 
+have to make a representation, not of a complexus 
+of simultaneous sensations, but of a complexus of 
+successive sensations, following one another in a deter­
+mined order, and it is for this reason that I said just 
+now that the intervention of memory is necessary. 
+We must further observe that, to reach the same 
+point, I can approach nearer the object to be attained, 
+in order not to have to extend my hand so far. And 
+how much more might be said? It is not one only, but 
+a thousand parries I can oppose to the same danger. 
+All these parries are formed of sensations that may 
+have nothing in common, and yet we regard them 
+as defining the same point in space, because they can 
+answer to the same danger and are one and all 
+of them associated with the notion of that danger. It 
+is the possibility of parrying the same blow which 
+makes the unity of these different parries, just as 
+it is the possibility of being parried in the same way
+
+ro6 SCIENCE AND METHOD. 
+which makes the unity of the blows of such different 
+kinds that can threaten us from the same point 
+in space. It is this double unity that makes the 
+individuality of each point in space, and in the notion 
+of such a point there is nothing else but this. 
+The space I pictured in the preceding section, 
+which I might call restricted space, was referred to 
+axes of co-ordinates attached to my body. These axes 
+were fixed, since my body did not move, and it 
+was only my limbs that changed their position. What 
+are the axes to which the extended space is naturally 
+referred-that is to say, the new space I have just 
+defined ? We define a point by the succession of 
+movements we require to make to reach it, starting 
+from a certain initial position of the body. The axes 
+are accordingly attached to this initial position of the 
+body. 
+But the position I call initial may be arbitrarily 
+chosen from among all the positions my body has 
+successively occupied. If a more or less unconscious 
+memory of these successive positions is necessary for 
+the genesis of the notion of space, this memory can go 
+back more or less into the past Hence results a 
+certain indeterminateness in the very definition of 
+space, and it is precisely this indeterminateness which 
+constitutes its relativity. 
+Absolute space exists no longer; there is only space 
+relative to a certain initial position of the body. For 
+a conscious being, fixed to the ground like the inferior 
+animals, who would consequently only know restricted 
+space, space would still be relative, since it would be 
+referred to his body, but this being would not be 
+conscious of the relativity, because the axes to which
+
+THE RELATIVITY OF SPACE. 107 
+he referred this restricted space would not change. 
+No doubt the rock to which he was chained would 
+not be motionless, since it would be involved in the 
+motion of our planet ; for us, consequently, these axes 
+would change every moment, but for him they would 
+not change. We have the faculty of referring our 
+extended space at one time to the position A of our 
+body considered as initial, at another to the position 
+B which it occupied some moments later, which we 
+are free to consider in its turn as initial, and, accord­
+ingly, we make unconscious changes in the co-ordinates 
+every moment. This faculty would fail our imaginary 
+being, and, through not having travelled, he would 
+think space absolute. Every moment his system of 
+axes would be imposed on him ; this system might 
+change to any extent in reality, for him it would be 
+always the same, since it would always be the uni'que 
+system. It is not the same for us who possess, each 
+moment, several systems between which we can choose 
+at will, and on condition of going back by memory 
+more or less into the past. 
+That is not all, for the restricted space would not 
+be homogeneous. The different points of this space 
+could not be regarded as equivalent, since some could 
+only be reached at the cost of the greatest efforts, 
+while others could be reached with ease. On the 
+contrary, our extended space appears to us homoge­
+neous, and we say that all its points are equivalent. 
+What does this mean? 
+If we start from a certain position A, we can, 
+starting from that position, effect certain movements 
+M, characterized by a certain complexus of muscular 
+sensations. But, starting from another position B,
+
+Io8 SCIENCE AND METHOD. 
+we can execute movements M1 which will be char­
+acterized by the same muscular sensations. Then let 
+a be the situation of a certain point in the body, the 
+tip of the forefinger of the right hand, for instance, 
+in the initial position A, and let b be the position of 
+this same forefinger when, starting from that position 
+A, we have executed the movements M. Then let a1 
+be the situation of the forefinger in the position B, 
+and b1 its situation when, starting from the position 
+B, we have executed the movements M1• 
+Well, I am in the habit of saying that the points a 
+and b are, in relation to each other, as the points a1 
+and b\ and that means simply that the two series of 
+movements M and M1 are accompanied by the same 
+muscular sensations. And as I am conscious that, 
+in passing from the position A to the position B, my 
+body has remained capable of the same movements, 
+I know that there is a point in space which is to the 
+point a1 what some point b is to the point a, so that 
+the two points a and a1 are equivalent It is this that 
+is called the homogeneity of space, and at the same 
+time it is for this reason that space is relative, since 
+its properties remain the same whether they are 
+referred to the axes A or to the axes B. So that the 
+relativity of space and its homogeneity are one and 
+the same thing. 
+Now, if I wish to pass to the great space, which is 
+no longer to serve for my individual use only, but in 
+which I can lodge the universe, I shall arrive at it by 
+an act of imagination. I shall imagine what a giant 
+would experience who could reach the planets in a 
+few steps, or, if we prefer, what I should feel myself 
+in presence of a world in miniature, in which these
+
+THE RELATIVITY OF SPACE. I<>9 
+planets would be replaced by little balls, while on 
+one of these little balls there would move a Lilliputian 
+that I should call myself. But this act of imagination 
+would be impossible for me if I had not previously 
+constructed my restricted space and my extended 
+space for my personal use. 
+IV. 
+Now we come to the question why all these spaces 
+have three dimensions. Let us refer to the " distribu­
+tion board" spoken of above. We have, on the one 
+side, a list of the different possible dangers-let us 
+designate them as Ar, A2, etc.-and, on the other side, 
+the list of the different remedies, which I will call in 
+the same way Bx, B2, etc. Then we have connexions 
+between the contact studs of the first list and those of 
+the second in such a way that when, for instance, the 
+alarm for danger A3 works, it sets in motion or 
+may set in motion the relay corresponding to the 
+parry B4 
+As I spoke above of centripetal or centrifugal wires, 
+I am afraid that all I have said may be taken, not as 
+a simple comparison, but as a description of the 
+nervous system. Such is not my thought, and that 
+for several reasons. Firstly, I should not presume to 
+pronounce an opinion on the structure of the nervous 
+system which I do not know, while those who have 
+studied it only do so with circumspection. Secondly, 
+because, in spite of my incompetence, I fully realize 
+that this scheme would be far too simple. And lastly, 
+because, on my list of parries, there appear some that 
+are very complex, which may even, in the case of 
+extended space, as we have seen above, consist of
+
+no SCIENCE AND METHOD. 
+several steps followed by a movement of the arm. It 
+is not a question, then, of physical connexion between 
+two real conductors, but of psychological association 
+between two series of sensations. 
+If AI and A2, for instance, are both of them 
+associated with the parry BI, and if AI is similarly 
+associated with B2, it will generally be the case that 
+A2 and B2 will also be associated. If this fundamental 
+law were not generally true, there would only be an 
+immense confusion, and there would be nothing that 
+could bear any resemblance to a conception of space 
+or to a geometry. How, indeed, have we defined a 
+point in space? We defined it in two ways : on the 
+one hand, it is the whole of the alarms A which are 
+in connexion with the same parry B ; on the other, 
+it is the whole of the parries B which are in connexion 
+with the same alarm A. If our law were not true, we 
+should be obliged to say that AI and A2 correspond 
+with the same point, since they are both in con­
+nexion with BI; but we should be equally obliged 
+to say that they do not correspond with the same 
+point, since AI would be in connexion with B2, and 
+this would not be true of A2-which would be a 
+contradiction. 
+But from another aspect, if. the law were rigorously 
+and invariably true, space would be quite different 
+from what it is. We should have well-defined cate­
+gories, among which would be apportioned the alarms 
+A on the one side and the parries B on the other. 
+These categories would be exceedingly numerous, but 
+they would be entirely separated one from the other. 
+Space would be formed of points, very numerous but 
+discrete ; it would be discontinuous. There would be
+
+THE RELATIVITY OF SPACE. III 
+no reason for arranging these points in one order 
+rather than another, nor, consequently, for attributing 
+three dimensions to space. 
+But this is not the case. May I be permitted for 
+a moment to use the language of those who know 
+geometry already? It is necessary that I should do 
+so, since it is the language best understood by those 
+to whom I wish to make myself clear. When I wish 
+to parry the blow, I try to reach the point whence 
+the blow comes, but it is enough if I come fairly near 
+it. Then the parry BI may answer to AI, and to 
+Az if the point which corresponds with BI is sufficiently 
+close both to that which corresponds with AI and to 
+that which corresponds with Az. But it may happen 
+that the point which corresponds with another parry 
+Bz is near enough to the point corresponding with 
+AI, and not near enough to the point corresponding 
+with Az. And so the parry Bz may answer to AI 
+and not be able to answer to Az. 
+For those who do not yet know geometry, this may 
+be translated simply by a modification of the law 
+enunciated above. Then what happens is as follows. 
+Two parries, BI and B2, are associated with one alarm 
+AI, and with a very great number of alarms that we 
+will place in the same category as AI, and make to 
+correspond with the same point in space. But we 
+may find alarms Az which are associated with Bz and 
+not with BI, but on the other hand are associated with 
+B3, which are not with Ar, and so on in succession, 
+so that we may write the sequence 
+B1, AI, Bz, Az, B3, A3, B4, A4, 
+in which each term is associated with the succeeding
+
+II2 SCIENCE AND METHOD. 
+and preceding terms, but not with those that are 
+several places removed. 
+It is unnecessary to add that each of the terms of 
+these sequences is not isolated, but forms part of a 
+very numerous category of other alarms or other 
+parries which has the same connexions as it, and 
+may be regarded as belonging to the same point in 
+space. Thus the fundamental law, though admitting 
+of exceptions, remains almost always true. Only, in 
+consequence of these exceptions, these categories, 
+instead of being entirely separate, partially encroach 
+upon each other and mutually overlap to a certain 
+extent, so that space becomes continuous. 
+Furthermore, the order in which these categories 
+must be arranged is no longer arbitrary, a'nd a 
+reference to the preceding sequence will make it 
+clear that B2 must be placed between AI and A2, 
+and, consequently, between Bx and B3, and that it 
+could not be placed, for instance, between B3 
+and B4-
+Accordingly there is an order in which our cate­
+gories range themselves naturally which corresponds 
+with the points in space, and experience teaches us 
+that this order presents itself in the form of a three­
+circuit distribution board, and it is for this reason 
+that space has three dimensions. 
+v. 
+Thus the characteristic property of space, that of 
+having three dimensions, is only a property of our 
+distribution board, a property residing, so to speak, 
+in the human intelligence. The destruction of some 
+of these connexions, that is to say, of these associa-
+
+THE RELATIVITY OF SPACE. II3 
+tions of ideas, would be sufficient to give us a dif­
+ferent distribution board, and that might be enough 
+to endow space with a fourth dimension. 
+Some people will be astonished at such a result. 
+The exterior world, they think, must surely count 
+for something. If the number of dimensions comes 
+from the way in which we are made, there might 
+be thinking beings living in our world, but made 
+differently from us, who would think that space has 
+more or less than three dimensions. Has not M. 
+de Cyon said that Japanese mice, having only two 
+pairs of semicircular canals, think that space has 
+two dimensions? Then will not this thinking being, 
+if he is capable of constructing a physical system, 
+make a system of two or four dimensions, which 
+yet, in a sense, will be the same as ours, since it will 
+be the description of the same world in another 
+language? 
+It quite seems, indeed, that it would be possible to 
+translate our physics into the language of geometry 
+of four dimensions. Attempting such a translation 
+would be giving oneself a great deal of trouble for 
+little profit, and I will content myself with men­
+tioning Hertz's mechanics, in which something of 
+the kind may be seen. Yet it seems that the 
+translation would always be less simple than the 
+text, and. that it would never lose the appearance of 
+a translation, for the language of three dimensions 
+seems the best suited to the description of our 
+world, even though that description may be made, 
+in case of necessity, in another idiom. 
+Besides, it is not by chance that our distribution 
+board has been formed. There is a connexion
+
+II4 SCIENCE AND METHOD. 
+between the alarm AI and the parry BI, that is, a 
+property residing in our intelligence. But why is 
+there this connexion? It is because the parry B I 
+enables us effectively to defend ourselves against the 
+danger AI, and that is a fact exterior to us, a 
+property of the exterior world. Our distribution 
+board, then, is only the translation of an assemblage 
+of exterior facts ; if it has three dimensions, it is 
+because it has adapted itself to a world having 
+certain properties, and the most important of these 
+properties is that there exist natural solids which 
+are clearly displaced in accordance with the laws 
+we call laws of motion of unvarying solids. If, then, 
+the language of three dimensions is that which 
+enables us most easily to describe our world, we 
+must not be surprised. This language is founded 
+on our distribution board, and it is in order to 
+enable us to live in this world that this board has 
+been established. 
+I have said that we could conceive of thinking 
+beings, living in our world, whose distribution board 
+would have four dimensions, who would, consequently, 
+think in hyperspace. It is not certain, however, that 
+such beings, admitting that they were born, would 
+be able to live and defend themselves against the 
+thousand dangers by which they would be assailed. 
+VI. 
+A few remarks in conclusion. There is a striking 
+contrast between the roughness of this primitive 
+geometry which is reduced to what I call a distribu­
+tion board, and the infinite precision of the geometry 
+of geometricians. And yet the latter is the child of
+
+THE RELATIVITY OF SPACE. II5 
+the former, but not of it alone; it required to be 
+fertilized by the faculty we have of constructing 
+mathematical concepts, such, for instance, as that of 
+the group. It was necessary to find among these 
+pure concepts the one that was best adapted to 
+this rough space, whose genesis I have tried to 
+explain in the preceding pages, the space which is 
+common to us and the higher animals, 
+The evidence of certain geometrical postulates is 
+only, as I have said, our unwillingness to give up 
+very old habits. But these postulates are infinitely 
+precise, while the habits have about them some­
+thing essentially fluid. As soon as we wish to think, 
+we are bound to have infinitely precise postulates, 
+since this is the only means of avoiding contradic­
+tion.. But among all the possible systems of postu­
+lates, there are some that we shall be unwilling to 
+choose, because they do not accord sufficiently with 
+our habits. However fluid and elastic these may be, 
+they have a limit of elasticity. 
+It will be seen that though geometry is not an 
+experimental science, it is a science born in con­
+nexion with experience ; that we have created the 
+space it studies, but adapting it to the world in 
+which we live. We have chosen the most con­
+venient space, but experience guided our choice. 
+As the choice was unconscious, it appears to be 
+imposed upon us. Some say that it is imposed by 
+experience, and others that we are born with our 
+space ready-made. After the preceding considera­
+tions, it will be seen what proportion of truth and 
+of error there is in these two opinions. 
+In this progressive education which has resulted
+
+rr6 SCIENCE AND METHOD. 
+in the construction of space, it is very difficult to 
+determine what is the share of the individual and 
+what of the race. To what extent could one of us, 
+transported from his birth into an entirely different 
+world, where, for instance, there existed bodies dis­
+placed in accordance with the laws of motion of 
+non-Euclidian solids-to what extent, I say, would 
+he be able to give up the ancestral space in order 
+to build up an entirely new space? 
+The share of the race seems to preponderate largely, 
+and yet if it is to it that we owe the rough space, 
+the fluid space of which I spoke just now, the space 
+of the higher animals, is it not to the unconscious 
+experience of the individual that we owe the in­
+finitely precise space of the geometrician? This is 
+a question that is not easy of solution. I would 
+mention, however, a fact which shows that the space 
+bequeathed to us by our ancestors still preserves a 
+certain plasticity. Certain hunters learn to shoot 
+fish under the water, although the image of these 
+fish is raised by refraction ; and, moreover, they do 
+it instinctively. Accordingly they have learnt to 
+modify their ancient instinct of direction, or, if you 
+will, to substitute for the association AI, BI, another 
+association AI, B2, because experience has shown 
+them that the former does not succeed.
+

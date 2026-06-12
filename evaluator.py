@@ -54,6 +54,25 @@ def _adaptive_lower(scores: np.ndarray, delta: float) -> float:
 BoundType = Literal["hoeffding", "bernstein", "adaptive"]
 
 
+def retrieval_entropy(similarity_scores: list[float], temperature: float = 1.0) -> float:
+    """
+    Entropy of the softmax distribution over similarity scores.
+
+    Ported from rag-metrics/evaluation/retrieval_metrics.py, adapted for
+    similarities (not distances). High entropy = ambiguous retrieval (scores
+    are spread evenly). Low entropy = one document clearly dominates.
+
+    Returns a value in [0, log(n)]; 0 means perfectly concentrated retrieval.
+    """
+    scores = np.array(similarity_scores, dtype=float)
+    if len(scores) == 0:
+        return 0.0
+    logits = scores / temperature
+    logits -= logits.max()  # numerical stability
+    probs = np.exp(logits) / np.sum(np.exp(logits))
+    return float(-np.sum(probs * np.log(probs + 1e-12)))
+
+
 @dataclass
 class ConfidenceResult:
     score: float          # lower bound used as confidence (clipped to [0, 1])
@@ -61,6 +80,7 @@ class ConfidenceResult:
     lower_bound: float
     bound_used: str
     n_docs: int
+    entropy: float = 0.0  # retrieval ambiguity (from rag-metrics)
 
 
 def compute_confidence(
@@ -112,4 +132,5 @@ def compute_confidence(
         lower_bound=lb,
         bound_used=bound_used,
         n_docs=len(scores),
+        entropy=retrieval_entropy(similarity_scores),
     )
